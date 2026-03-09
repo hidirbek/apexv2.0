@@ -114,36 +114,36 @@
 .block1_svg svg {
   position: absolute;
   height: max-content;
-  width: 235px;
-  top: 451px;
-  right: 864px;
+  width: 187px;
+  top: 362px;
+  right: 692px;
 
 }
 
 .block2_svg svg {
   height: max-content;
   position: absolute;
-  width: 233px;
-  top: 496px;
-  right: 1064px;
+  width: 184px;
+  top: 395px;
+  right: 851px;
   z-index: 4;
 }
 
 .block3_svg svg {
   height: max-content;
   position: absolute;
-  width: 182px;
-  top: 420px;
-  left: 531px;
+  width: 145px;
+  top: 336px;
+  left: 425px;
   z-index: 3;
 }
 
 .block4_svg svg {
   height: max-content;
   position: absolute;
-  width: 268px;
-  top: 217px;
-  left: 606px;
+  width: 212px;
+  top: 174px;
+  left: 487px;
   z-index: 2;
 }
 
