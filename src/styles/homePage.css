@@ -1,0 +1,213 @@
+/* .home_bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.blocks_svg {
+  fill: #ff6a00;
+}
+
+.block1_svg svg {
+  position: absolute;
+  height: max-content;
+  width: 187px;
+  top: 362px;
+  right: 692px;
+}
+
+.block2_svg svg {
+  height: max-content;
+  position: absolute;
+  width: 184px;
+  top: 395px;
+  right: 851px;
+}
+
+.block3_svg svg {
+  height: max-content;
+  position: absolute;
+  width: 145px;
+  top: 336px;
+  left: 425px;
+}
+
+.block4_svg svg {
+  height: max-content;
+  position: absolute;
+  width: 212px;
+  top: 174px;
+  left: 487px;
+}
+
+
+
+
+
+
+
+.block1_svg svg path,
+.block2_svg svg path,
+.block3_svg svg path,
+.block4_svg svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+}
+
+.block1_svg svg path {
+  animation-delay: 0s;
+}
+
+.block2_svg svg path {
+  animation-delay: 0.5s;
+}
+
+.block3_svg svg path {
+  animation-delay: 1s;
+}
+
+.block4_svg svg path {
+  animation-delay: 1.5s;
+}
+
+@keyframes glowPulse {
+  0% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+
+  25% {
+    fill: #ff6a00;
+    fill-opacity: 0.3;
+  }
+
+  50% {
+    fill: #ff6a00;
+    fill-opacity: 0.15;
+  }
+
+  75% {
+    fill: #ff6a00;
+    fill-opacity: 0.3;
+  }
+
+  100% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+} */
+
+
+.home_bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.blocks_svg {
+  cursor: pointer;
+}
+
+.block1_svg svg {
+  position: absolute;
+  height: max-content;
+  width: 235px;
+  top: 451px;
+  right: 864px;
+
+}
+
+.block2_svg svg {
+  height: max-content;
+  position: absolute;
+  width: 233px;
+  top: 496px;
+  right: 1064px;
+  z-index: 4;
+}
+
+.block3_svg svg {
+  height: max-content;
+  position: absolute;
+  width: 182px;
+  top: 420px;
+  left: 531px;
+  z-index: 3;
+}
+
+.block4_svg svg {
+  height: max-content;
+  position: absolute;
+  width: 268px;
+  top: 217px;
+  left: 606px;
+  z-index: 2;
+}
+
+.block1_svg svg path,
+.block2_svg svg path,
+.block3_svg svg path,
+.block4_svg svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+}
+
+.block1_svg svg path {
+  animation-delay: 0s;
+}
+
+.block2_svg svg path {
+  animation-delay: 0.5s;
+}
+
+.block3_svg svg path {
+  animation-delay: 1s;
+}
+
+.block4_svg svg path {
+  animation-delay: 1.5s;
+}
+
+/* Остановить всю анимацию */
+.stop-all-animations svg path {
+  animation: none !important;
+  fill: transparent;
+  fill-opacity: 0;
+}
+
+/* Выделенный SVG после первого клика */
+.selected-svg svg path {
+  animation: none !important;
+  fill: #ff6a009e !important;
+  /* любой нужный цвет */
+  fill-opacity: 1 !important;
+}
+
+@keyframes glowPulse {
+  0% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+
+  25% {
+    fill: #ff6a00;
+    fill-opacity: 0.3;
+  }
+
+  50% {
+    fill: #ff6a00;
+    fill-opacity: 0.15;
+  }
+
+  75% {
+    fill: #ff6a00;
+    fill-opacity: 0.3;
+  }
+
+  100% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+}

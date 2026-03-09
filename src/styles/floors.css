@@ -1,0 +1,155 @@
+.block_bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.block-btn {
+  border-radius: 50%;
+  padding: 10px;
+  background-color: #ff6a00;
+  color: #fff;
+  border: 3px solid #652a00;
+  font-size: 20px;
+  font-weight: 900;
+
+}
+
+.active-block {
+  background-color: transparent;
+}
+
+.block_floors {
+  cursor: pointer;
+  width: 400px;
+  transition: transform 0.2s ease;
+}
+
+
+.block_floors svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.block_floor18 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.1s;
+}
+
+.block_floor17 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.2s;
+}
+
+.block_floor16 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.3s;
+}
+
+.block_floor15 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.4s;
+}
+
+.block_floor14 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.5s;
+}
+
+.block_floor13 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.6s;
+}
+
+.block_floor12 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.7s;
+}
+
+.block_floor11 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.8s;
+}
+
+.block_floor10 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+.block_floor9 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.2s;
+}
+
+.block_floor8 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.4s;
+}
+
+.block_floor7 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.6s;
+}
+
+.block_floor6 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.8s;
+}
+
+.block_floor5 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 2s;
+}
+
+.block_floor4 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 2.2s;
+}
+
+.block_floor3 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 2.4s;
+}
+
+
+.selected-svg svg path {
+  animation: none !important;
+  fill: #ff6a00 !important;
+  fill-opacity: 0.6 !important;
+}
+
+.loading-floor {
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+@keyframes glowPulse {
+  0% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+
+  25% {
+    fill: #ff6a00;
+    fill-opacity: 0.3;
+  }
+
+  50% {
+    fill: #ff6a00cc;
+    fill-opacity: 0.15;
+  }
+
+  75% {
+    fill: #ff6a0093;
+    fill-opacity: 0.3;
+  }
+
+  100% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+}
