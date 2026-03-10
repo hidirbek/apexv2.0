@@ -1,8 +1,9 @@
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { blocksData } from "../data";
 
 const ApartmentPage = () => {
   const { blockId, floorId, entranceName, apartmentId } = useParams();
+  const navigate = useNavigate();
 
   const currentBlock = blocksData.find((block) => block.id === Number(blockId));
   const currentFloor = currentBlock?.floors?.find(
@@ -27,6 +28,9 @@ const ApartmentPage = () => {
 
   return (
     <div>
+      <button className="back-btn" onClick={() => navigate(-1)}>
+        ← Назад
+      </button>
       <h1>{currentBlock.name}</h1>
       <h2>Этаж {currentFloor.floor}</h2>
       <h3>

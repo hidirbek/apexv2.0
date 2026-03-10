@@ -9,10 +9,9 @@ const block1Data = {
   floors: [
     {
       floor: 3,
-      svg: `<svg width="1328" height="75" viewBox="0 0 1328 75" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1133.07 72.1063H2V46.5825H14.4953V9.60632L1133.07 12.1063L1326 2.10632V60.6063L1133.07 72.1063Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
+      svg: `<svg width="1316" height="75" viewBox="0 0 1316 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1120.58 72.1063H2V9.60632L1120.58 12.1063L1313.5 2.10632V60.6063L1120.58 72.1063Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
 </svg>
-
 `,
       entrances: {
         r1: [
@@ -22,9 +21,9 @@ const block1Data = {
 <path d="M248.15 43.02V229.01H5.97998V8.08H0V5H6.40002V0H14.4V8L17.3099 19.16H78.47L79.98 16.14H83.98L85.5699 19.16H145.45L146.49 17.09H151.04V19.16H243.58V30.82H243.7L243.74 30.94L248.15 43.02Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
-            top: "210px",
-            left: "790px",
-            width: "180px",
+            top: "323px",
+            left: "1170px",
+            width: "210px",
           },
           {
             apartment: 2,
@@ -32,6 +31,9 @@ const block1Data = {
 <path d="M170 0H0V183.64H10.01V200.6L5.07996 209.03H166.64L167.25 210.03H170.01L170 0.0100098V0ZM75.89 181.81L75.84 181.72L76.22 181.81H75.89Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "555px",
+            left: "1240px",
+            width: "140px",
           },
           {
             apartment: 3,
@@ -39,6 +41,9 @@ const block1Data = {
 <path d="M167.49 184.17V201.01L167.42 201.12L160.94 212.19H156.4L153.84 209.38H84.21L82.72 212.19H78.52L78.47 212.16L74.2299 209.38H15.27L14.22 212.19H12.69L10.06 202.38H0V0H157.3V184L167.49 184.17Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "555px",
+            left: "1108px",
+            width: "140px",
           },
           {
             apartment: 4,
@@ -46,6 +51,9 @@ const block1Data = {
 <path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "555px",
+            left: "965px",
+            width: "140px",
           },
           {
             apartment: 5,
@@ -53,6 +61,9 @@ const block1Data = {
 <path d="M137 40.73V222.9H133.01V224.72V244.92L136.13 250.11H0.5V231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "515px",
+            left: "852px",
+            width: "120px",
           },
           {
             apartment: 6,
@@ -60,6 +71,9 @@ const block1Data = {
 <path d="M222 5V8H220.16V229L0 228.27V47.48L5.45996 45V28.04L1.13 19.15H67.49L69.01 16.11H73.01L74.53 19.15H136.48L138 16.11H142L143.52 19.15H204.33L207.6 8V0H215.6V5H222Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "323px",
+            left: "852px",
+            width: "185px",
           },
         ],
         r2: [
@@ -69,6 +83,9 @@ const block1Data = {
 <path d="M169.46 22.05V39.01L164 41.49V453.12H163.5V472.39H5.89996L11 463.96V445.1V446.83H4.5V247.71H0V42.97H8V0H10.92L13.93 13.16H157.99L159.5 10.12H163.5V10.13L169.46 22.05Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "313px",
+            left: "712px",
+            width: "145px",
           },
           {
             apartment: 2,
@@ -76,6 +93,9 @@ const block1Data = {
 <path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L152.1 224.68H81.09L79.4 227.49H75.19L75.15 227.46L71.69 224.68H14.16L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "540px",
+            left: "581px",
+            width: "140px",
           },
           {
             apartment: 3,
@@ -83,6 +103,9 @@ const block1Data = {
 <path d="M296.4 5.22V206.19H294.4V253.57H285.63L283 263.38H281.47L280.23 260.57H226.02L223.21 263.38H218.98L217.27 260.54L158.45 260.57L155.37 263.38H151L146.23 255.43V235.01H146.4V227.24H6.66L0 223.14V5.20999L56.83 5.22V5.00998H55.83V2.72998L65.12 0H67.4V5.22H296.4Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "506px",
+            left: "333px",
+            width: "250px",
           },
           {
             apartment: 4,
@@ -90,6 +113,9 @@ const block1Data = {
 <path d="M266.4 177V232.03H37.4V226.98H35.12L26 229.67V231H0V18.03H11.4V0H66.4V15H259.82V177H266.4Z" fill="#FF6A00" fill-opacity="0.5"/>
 </svg>
 `,
+            top: "315px",
+            left: "356px",
+            width: "230px",
           },
         ],
       },
@@ -102,182 +128,669 @@ const block1Data = {
 `,
       entrances: {
         r1: [
-          { apartment: 7, svg: "/svg/blocks/block-1/floors/4/r1/7.svg" },
-          { apartment: 8, svg: "/svg/blocks/block-1/floors/4/r1/8.svg" },
-          { apartment: 9, svg: "/svg/blocks/block-1/floors/4/r1/9.svg" },
-          { apartment: 10, svg: "/svg/blocks/block-1/floors/4/r1/10.svg" },
-          { apartment: 11, svg: "/svg/blocks/block-1/floors/4/r1/11.svg" },
-          { apartment: 12, svg: "/svg/blocks/block-1/floors/4/r1/12.svg" },
+          {
+            apartment: 7,
+            svg: `<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 8,
+            svg: `<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+
+`,
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 9,
+            svg: `<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 10,
+            svg: `<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 11,
+            svg: `<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 12,
+            svg: `<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 5, svg: "/svg/blocks/block-1/floors/4/r2/5.svg" },
-          { apartment: 6, svg: "/svg/blocks/block-1/floors/4/r2/6.svg" },
-          { apartment: 7, svg: "/svg/blocks/block-1/floors/4/r2/7.svg" },
-          { apartment: 8, svg: "/svg/blocks/block-1/floors/4/r2/8.svg" },
+          {
+            apartment: 5,
+            svg: `<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 6,
+            svg: `<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 7,
+            svg: `<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 8,
+            svg: `<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
     {
       floor: 5,
-      svg: `<svg width="1300" height="72" viewBox="0 0 1300 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2 6.04535V66.0453V67.5453L1119.5 69.5453L1298 60.5453V2.04535L1119.5 6.04535H2Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1300" height="72" viewBox="0 0 1300 72" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M2 6.04535V66.0453V67.5453L1119.5 69.5453L1298 60.5453V2.04535L1119.5 6.04535H2Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r1: [
-          { apartment: 13, svg: "/svg/blocks/block-1/floors/5/r1/13.svg" },
-          { apartment: 14, svg: "/svg/blocks/block-1/floors/5/r1/14.svg" },
-          { apartment: 15, svg: "/svg/blocks/block-1/floors/5/r1/15.svg" },
-          { apartment: 16, svg: "/svg/blocks/block-1/floors/5/r1/16.svg" },
-          { apartment: 17, svg: "/svg/blocks/block-1/floors/5/r1/17.svg" },
-          { apartment: 18, svg: "/svg/blocks/block-1/floors/5/r1/18.svg" },
+          {
+            apartment: 13,
+            svg: '<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 14,
+            svg: '<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 15,
+            svg: '<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 16,
+            svg: '<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 17,
+            svg: '<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 18,
+            svg: '<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 9, svg: "/svg/blocks/block-1/floors/5/r2/9.svg" },
-          { apartment: 10, svg: "/svg/blocks/block-1/floors/5/r2/10.svg" },
-          { apartment: 11, svg: "/svg/blocks/block-1/floors/5/r2/11.svg" },
-          { apartment: 12, svg: "/svg/blocks/block-1/floors/5/r2/12.svg" },
+          {
+            apartment: 9,
+            svg: '<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 10,
+            svg: '<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 11,
+            svg: '<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 12,
+            svg: '<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
     {
       floor: 6,
-      svg: `<svg width="1300" height="77" viewBox="0 0 1300 77" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2 2.02869V69.5287V73.0287L1122.5 74.5287L1298 71.5287V2.02869L1122.5 4.52869L2 2.02869Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-
-`,
+      svg: '<svg width="1300" height="70" viewBox="0 0 1300 70" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M2 2.0257V62.5429V65.6809L1122.5 67.0257L1298 64.336V2.0257L1122.5 4.26708L2 2.0257Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r1: [
-          { apartment: 19, svg: "/svg/blocks/block-1/floors/6/r1/19.svg" },
-          { apartment: 20, svg: "/svg/blocks/block-1/floors/6/r1/20.svg" },
-          { apartment: 21, svg: "/svg/blocks/block-1/floors/6/r1/21.svg" },
-          { apartment: 22, svg: "/svg/blocks/block-1/floors/6/r1/22.svg" },
-          { apartment: 23, svg: "/svg/blocks/block-1/floors/6/r1/23.svg" },
-          { apartment: 24, svg: "/svg/blocks/block-1/floors/6/r1/24.svg" },
+          {
+            apartment: 19,
+            svg: '<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 20,
+            svg: '<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 21,
+            svg: '<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 22,
+            svg: '<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 23,
+            svg: '<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 24,
+            svg: '<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 13, svg: "/svg/blocks/block-1/floors/6/r2/13.svg" },
-          { apartment: 14, svg: "/svg/blocks/block-1/floors/6/r2/14.svg" },
-          { apartment: 15, svg: "/svg/blocks/block-1/floors/6/r2/15.svg" },
-          { apartment: 16, svg: "/svg/blocks/block-1/floors/6/r2/16.svg" },
+          {
+            apartment: 13,
+            svg: '<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 14,
+            svg: '<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 15,
+            svg: '<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 16,
+            svg: '<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
     {
       floor: 7,
-      svg: `<svg width="1300" height="67" viewBox="0 0 1300 67" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2 2.00391V60.6591V63.7005L1122.5 65.0039L1298 62.397V6.50391L1122.5 4.17632L2 2.00391Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-
-`,
+      svg: '<svg width="1300" height="74" viewBox="0 0 1300 74" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M2 2.00427V67.1767V70.556L1122.5 72.0043L1298 69.1077V7.00427L1122.5 4.41807L2 2.00427Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r1: [
-          { apartment: 25, svg: "/svg/blocks/block-1/floors/7/r1/25.svg" },
-          { apartment: 26, svg: "/svg/blocks/block-1/floors/7/r1/26.svg" },
-          { apartment: 27, svg: "/svg/blocks/block-1/floors/7/r1/27.svg" },
-          { apartment: 28, svg: "/svg/blocks/block-1/floors/7/r1/28.svg" },
-          { apartment: 29, svg: "/svg/blocks/block-1/floors/7/r1/29.svg" },
-          { apartment: 30, svg: "/svg/blocks/block-1/floors/7/r1/30.svg" },
+          {
+            apartment: 25,
+            svg: '<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 26,
+            svg: '<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 27,
+            svg: '<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 28,
+            svg: '<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 29,
+            svg: '<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 30,
+            svg: '<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 17, svg: "/svg/blocks/block-1/floors/7/r2/17.svg" },
-          { apartment: 18, svg: "/svg/blocks/block-1/floors/7/r2/18.svg" },
-          { apartment: 19, svg: "/svg/blocks/block-1/floors/7/r2/19.svg" },
-          { apartment: 20, svg: "/svg/blocks/block-1/floors/7/r2/20.svg" },
+          {
+            apartment: 17,
+            svg: '<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 18,
+            svg: '<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 19,
+            svg: '<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 20,
+            svg: '<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
     {
       floor: 8,
-      svg: `<svg width="1300" height="70" viewBox="0 0 1300 70" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2 2.00391V60.6591V63.7005L1122.5 65.0039L1298 67.0039V11.5039L1122.5 4.17632L2 2.00391Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1300" height="70" viewBox="0 0 1300 70" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M2 2.00391V60.6591V63.7005L1122.5 65.0039L1298 67.0039V11.5039L1122.5 4.17632L2 2.00391Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r1: [
-          { apartment: 31, svg: "/svg/blocks/block-1/floors/8/r1/31.svg" },
-          { apartment: 32, svg: "/svg/blocks/block-1/floors/8/r1/32.svg" },
-          { apartment: 33, svg: "/svg/blocks/block-1/floors/8/r1/33.svg" },
-          { apartment: 34, svg: "/svg/blocks/block-1/floors/8/r1/34.svg" },
-          { apartment: 35, svg: "/svg/blocks/block-1/floors/8/r1/35.svg" },
-          { apartment: 36, svg: "/svg/blocks/block-1/floors/8/r1/36.svg" },
+          {
+            apartment: 31,
+            svg: '<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 32,
+            svg: '<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 33,
+            svg: '<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 34,
+            svg: '<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 35,
+            svg: '<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 36,
+            svg: '<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 21, svg: "/svg/blocks/block-1/floors/8/r2/21.svg" },
-          { apartment: 22, svg: "/svg/blocks/block-1/floors/8/r2/22.svg" },
-          { apartment: 23, svg: "/svg/blocks/block-1/floors/8/r2/23.svg" },
-          { apartment: 24, svg: "/svg/blocks/block-1/floors/8/r2/24.svg" },
+          {
+            apartment: 21,
+            svg: '<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 22,
+            svg: '<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 23,
+            svg: '<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 24,
+            svg: '<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
     {
       floor: 9,
-      svg: `<svg width="1300" height="83" viewBox="0 0 1300 83" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2 2.00439V67.8787V71.2944L1122.5 72.7582L1298 80.5044V15.0044L1122.5 4.44418L2 2.00439Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1300" height="83" viewBox="0 0 1300 83" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M2 2.00439V67.8787V71.2944L1122.5 72.7582L1298 80.5044V15.0044L1122.5 4.44418L2 2.00439Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r1: [
-          { apartment: 37, svg: "/svg/blocks/block-1/floors/9/r1/37.svg" },
-          { apartment: 38, svg: "/svg/blocks/block-1/floors/9/r1/38.svg" },
-          { apartment: 39, svg: "/svg/blocks/block-1/floors/9/r1/39.svg" },
-          { apartment: 40, svg: "/svg/blocks/block-1/floors/9/r1/40.svg" },
-          { apartment: 41, svg: "/svg/blocks/block-1/floors/9/r1/41.svg" },
-          { apartment: 42, svg: "/svg/blocks/block-1/floors/9/r1/42.svg" },
+          {
+            apartment: 37,
+            svg: '<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 38,
+            svg: '<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 39,
+            svg: '<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 40,
+            svg: '<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 41,
+            svg: '<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 42,
+            svg: '<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 25, svg: "/svg/blocks/block-1/floors/9/r2/25.svg" },
-          { apartment: 26, svg: "/svg/blocks/block-1/floors/9/r2/26.svg" },
-          { apartment: 27, svg: "/svg/blocks/block-1/floors/9/r2/27.svg" },
-          { apartment: 28, svg: "/svg/blocks/block-1/floors/9/r2/28.svg" },
+          {
+            apartment: 25,
+            svg: '<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 26,
+            svg: '<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 27,
+            svg: '<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 28,
+            svg: '<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
     {
       floor: 10,
-      svg: `<svg width="1300" height="77" viewBox="0 0 1300 77" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2 2.00378V59.0668V62.0257L1122.5 63.2937L1298 74.0038V18.5038L1122.5 4.11723L2 2.00378Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1300" height="77" viewBox="0 0 1300 77" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M2 2.00378V59.0668V62.0257L1122.5 63.2937L1298 74.0038V18.5038L1122.5 4.11723L2 2.00378Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r1: [
-          { apartment: 43, svg: "/svg/blocks/block-1/floors/10/r1/43.svg" },
-          { apartment: 44, svg: "/svg/blocks/block-1/floors/10/r1/44.svg" },
-          { apartment: 45, svg: "/svg/blocks/block-1/floors/10/r1/45.svg" },
-          { apartment: 46, svg: "/svg/blocks/block-1/floors/10/r1/46.svg" },
-          { apartment: 47, svg: "/svg/blocks/block-1/floors/10/r1/47.svg" },
-          { apartment: 48, svg: "/svg/blocks/block-1/floors/10/r1/48.svg" },
+          {
+            apartment: 43,
+            svg: '<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 44,
+            svg: '<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 45,
+            svg: '<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 46,
+            svg: '<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 47,
+            svg: '<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 48,
+            svg: '<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 29, svg: "/svg/blocks/block-1/floors/10/r2/29.svg" },
-          { apartment: 30, svg: "/svg/blocks/block-1/floors/10/r2/30.svg" },
-          { apartment: 31, svg: "/svg/blocks/block-1/floors/10/r2/31.svg" },
-          { apartment: 32, svg: "/svg/blocks/block-1/floors/10/r2/32.svg" },
+          {
+            apartment: 29,
+            svg: '<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 30,
+            svg: '<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 31,
+            svg: '<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 32,
+            svg: '<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
     {
       floor: 11,
-      svg: `<svg width="1300" height="95" viewBox="0 0 1300 95" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M2 2.00476V73.3336V77.0321L1122.5 78.6172L1298 92.0048V22.6298L1122.5 4.64657L2 2.00476Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-
-`,
+      svg: '<svg width="1300" height="95" viewBox="0 0 1300 95" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M2 2.00476V73.3336V77.0321L1122.5 78.6172L1298 92.0048V22.6298L1122.5 4.64657L2 2.00476Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
         r1: [
-          { apartment: 49, svg: "/svg/blocks/block-1/floors/11/r1/49.svg" },
-          { apartment: 50, svg: "/svg/blocks/block-1/floors/11/r1/50.svg" },
-          { apartment: 51, svg: "/svg/blocks/block-1/floors/11/r1/51.svg" },
-          { apartment: 52, svg: "/svg/blocks/block-1/floors/11/r1/52.svg" },
-          { apartment: 53, svg: "/svg/blocks/block-1/floors/11/r1/53.svg" },
-          { apartment: 54, svg: "/svg/blocks/block-1/floors/11/r1/54.svg" },
+          {
+            apartment: 49,
+            svg: '<svg width="455" height="226" viewBox="0 0 455 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M454.17 44.08V141.91L454.14 141.96L394.29 217.5L396.42 222.04L396.4 222.06L396.22 222.02L390.51 209.88L374.28 197.1L351.12 225.25H0V2.08H6.75V0H8.58997V3.17L11.4299 14.24H72.85L73.89 12.16H78.11L79.15 14.23H139.85L140.4 13.16H145.23V14.23H237.05V27.06H237.72L237.76 27.18L242.17 39.26V41.08H247.63L247.68 41.17L249.38 44.08H454.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "327px",
+            left: "1173px",
+            width: "390px",
+          },
+          {
+            apartment: 50,
+            svg: '<svg width="324" height="265" viewBox="0 0 324 265" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.4 24.96L320.82 28.25L320.71 28.23L315.88 27.23L285.97 64.97L288.76 78.09L285.14 82.68L283.85 81.66L282.82 82.95L284.1 83.96L281.66 87.06L280.38 86.05L279.35 87.34L280.62 88.35L278.17 91.45L276.9 90.44L275.87 91.73L277.15 92.73L269.96 101.78L268.71 100.79L267.68 102.07L268.93 103.07L266.48 106.17L265.23 105.18L264.2 106.47L265.45 107.46L263 110.55L261.75 109.56L260.72 110.85L261.96 111.84L254.81 120.91L253.54 119.9L252.5 121.18L253.78 122.2L251.33 125.28L250.06 124.28L249.03 125.57L250.3 126.58L247.85 129.68L246.58 128.67L245.55 129.96L246.79 130.95L243.18 135.53L234.33 135.87L232.57 134.48L232.68 134.34L231.39 133.32L184.66 192.3L184.19 192.89L185.49 193.92L185.54 193.85L187.31 195.26L187.37 206.7L186.17 208.23L184.92 207.24L183.89 208.53L185.14 209.52L182.69 212.63L181.45 211.64L180.42 212.93L181.66 213.91L179.22 217.02L177.97 216.03L176.94 217.32L178.19 218.31L176.23 220.81L170 226.36V251.97H170.18V264.43L167.08 264.34L164.08 259.33H161.57V258.33H160.32V259.33H157.57V258.33H156.32V259.33H154.06L151.38 252.32H151.37L151.33 252.2L151.24 251.97H151.27L149.67 246.32H84.23L82.1 250.32H75.89L75.84 250.23L73.78 246.32H16.34L14.64 252.32H10.1899L0 252.15V28.15H278.12L301.28 0L317.51 12.78L323.22 24.92L323.4 24.96Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "493px",
+            left: "1240px",
+            width: "275px",
+          },
+          {
+            apartment: 51,
+            svg: '<svg width="168" height="223" viewBox="0 0 168 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M167.49 194.88V211.72L167.42 211.83L160.94 222.9H156.4L154.77 221.27H83.7L82.72 222.9H78.52L78.47 222.87L76.03 221.27H14.94L14.22 222.9H12.69L10.06 213.09H0V10.71H156.3V1.98001H156.03V0H157.3V194.71L167.49 194.88Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "1108px",
+            width: "140px",
+          },
+          {
+            apartment: 52,
+            svg: '<svg width="167" height="213" viewBox="0 0 167 213" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.69 0V202.38H157.22L154.59 212.19H153.06L152.34 210.56H91.28L90.97 210.76L88.8 212.19H84.59L83.61 210.56H10.84L8.96997 212.19H4.59998L0 204.52V182.17H3.98999V0H166.69Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "555px",
+            left: "965px",
+            width: "140px",
+          },
+          {
+            apartment: 53,
+            svg: '<svg width="137" height="232" viewBox="0 0 137 232" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M137 40.73V222.9H131.89L129.9 218.9H72.67L70.71 222.82H66.5L64.54 218.9H8.15997V218.92L2.10999 231.02H0V0H109.22V40.73H137Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "517px",
+            left: "852px",
+            width: "118px",
+          },
+          {
+            apartment: 54,
+            svg: '<svg width="221" height="226" viewBox="0 0 221 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M220.66 2.08V225.25L0.5 224.52V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "325px",
+            left: "852px",
+            width: "185px",
+          },
         ],
         r2: [
-          { apartment: 33, svg: "/svg/blocks/block-1/floors/11/r2/33.svg" },
-          { apartment: 34, svg: "/svg/blocks/block-1/floors/11/r2/34.svg" },
-          { apartment: 35, svg: "/svg/blocks/block-1/floors/11/r2/35.svg" },
-          { apartment: 36, svg: "/svg/blocks/block-1/floors/11/r2/36.svg" },
+          {
+            apartment: 33,
+            svg: '<svg width="170" height="457" viewBox="0 0 170 457" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M169.46 25.08V42.04L164 44.52V456.33H161.89L155.86 444.21H90.67L88.71 448.13H84.5L84 447.13L82.54 444.21H14.07L12.11 448.13H11V449.86H4.5V250.74H0V46H8V1.94H9.70001V0H11.01V2.89L11.04 3L13.82 14.95H158.41L159.39 12.98H163.5V13.16L169.46 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "313px",
+            left: "712px",
+            width: "145px",
+          },
+          {
+            apartment: 34,
+            svg: '<svg width="167" height="228" viewBox="0 0 167 228" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.17 199.12V216.31L166.15 216.35L166 216.6L159.4 227.49H155.03L154.98 227.45L153.17 225.86H80.38L79.4 227.49H75.19L75.15 227.46L72.98 225.86H13.64L12.92 227.49H11.39L8.75998 217.68H0V170.3H2V15.3H42V6.30002H90V15.3H155V0H159.5V199.12H166.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "581px",
+            width: "140px",
+          },
+          {
+            apartment: 35,
+            svg: '<svg width="256" height="264" viewBox="0 0 256 264" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M26.18 5.22V0H23.9L14.61 2.72998V5.00998H15.61V6.25998H14.61V9.00998H15.61V10.26H14.61V12.76L9.59999 15.77V19.98L17.47 31.36H26.36V31.19H28.21V51.19H26.36V51.02H21.18L9.68999 56.09L9.59 56.13V59.51L16.8 61.44V78.97L9.59 80.9V84.28L18.19 88.07H0V231.4H105.18V235.01H105.01V255.43L109.78 263.38H114.15L116.02 261.75H176.78L177.76 263.38H181.99L183.62 261.75H239.53L240.25 263.38H241.78L244.41 253.57H253.18V206.19H255.18V5.22H26.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "506px",
+            left: "367px",
+            width: "213px",
+          },
+          {
+            apartment: 36,
+            svg: '<svg width="229" height="218" viewBox="0 0 229 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M229 162V217.03H0V211.81H0.180008V211.98H1.91V203.89L2.00999 203.84L5.83 201.94V150.07L1.91 148.11V143.89L5.83 141.94V89.37L1.91 87.41V83.19L5.83 81.24V16.67L1.91 14.71V10.49L14.08 4.42H29V0H222.42V162H229Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "330px",
+            left: "390px",
+            width: "195px",
+          },
         ],
       },
     },
@@ -289,12 +802,48 @@ const block1Data = {
 `,
       entrances: {
         r1: [
-          { apartment: 55, svg: "/svg/blocks/block-1/floors/12/r1/55.svg" },
-          { apartment: 56, svg: "/svg/blocks/block-1/floors/12/r1/56.svg" },
+          {
+            apartment: 55,
+            svg: `<svg width="459" height="478" viewBox="0 0 459 478" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M458.17 44.08V141.91L458.14 141.96L398.29 217.5L400.42 222.04L400.4 222.06L397.82 225.35L397.71 225.33L392.88 224.33L362.97 262.07L365.76 275.19L362.14 279.78L360.85 278.76L359.82 280.05L361.1 281.06L358.66 284.16L357.38 283.15L356.35 284.44L357.62 285.45L355.17 288.55L353.9 287.54L352.87 288.83L354.15 289.83L346.96 298.88L345.71 297.89L344.68 299.17L345.93 300.17L343.48 303.27L342.23 302.28L341.2 303.57L342.45 304.56L340 307.65L338.75 306.66L337.72 307.95L338.96 308.94L331.81 318.01L330.54 317L329.5 318.28L330.78 319.3L328.33 322.38L327.06 321.38L326.03 322.67L327.3 323.68L324.85 326.78L323.58 325.77L322.55 327.06L323.79 328.05L320.18 332.63L311.33 332.97L309.57 331.58L309.68 331.44L308.39 330.42L261.66 389.4L261.19 389.99L262.49 391.02L262.54 390.95L264.31 392.36L264.37 403.8L263.17 405.33L261.92 404.34L260.89 405.63L262.14 406.62L259.69 409.73L258.45 408.74L257.42 410.03L258.66 411.01L256.22 414.12L254.97 413.13L253.94 414.42L255.19 415.41L253.23 417.91L247 423.46V449.07H247.18V461.53L244.08 461.44L241.08 456.43H238.57V455.43H237.32V456.43H234.57V455.43H233.32V456.43H231.06L228.38 449.42H228.37L228.33 449.3L228.24 449.07H228.27L226.67 443.42H161.23L159.1 447.42H152.89L152.84 447.33L150.78 443.42H93.34L91.64 449.42H87.1899V466.26L87.12 466.37L80.64 477.44H76.1L74.47 475.81H3.40002L2.42004 477.44H0V225.25H4V2.08H10.75V0H12.59V3.17L15.4299 14.24H76.85L77.89 12.16H82.11L83.15 14.23H143.85L144.4 13.16H149.23V14.23H241.05V27.06H241.72L241.76 27.18L246.17 39.26V41.08H251.63L251.68 41.17L253.38 44.08H458.17Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "310px",
+            left: "1170px",
+            width: "390px",
+          },
+          {
+            apartment: 56,
+            svg: `<svg width="222" height="478" viewBox="0 0 222 478" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M221.99 265.25V477.44H218.1L217.12 475.81H144.35L142.48 477.44H138.11L133.51 469.77V447.42H132.39L130.4 443.42H73.17L71.21 447.34H67L65.04 443.42H8.65997V443.44L2.60999 455.54H0.5V43.73L5.95996 41.25V24.29L0 12.37V12.19H0.109985L1.08997 14.16H68.86L69.4 13.08H73.62L74.15 14.16H139.91L140.45 13.08H144.67L145.21 14.16H204.65L207.92 3.14V0H209.24V2.08H220.66V224.52H221.78V265.25H221.99Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "310px",
+            left: "850px",
+            width: "190px",
+          },
         ],
         r2: [
-          { apartment: 37, svg: "/svg/blocks/block-1/floors/12/r2/37.svg" },
-          { apartment: 38, svg: "/svg/blocks/block-1/floors/12/r2/38.svg" },
+          {
+            apartment: 37,
+            svg: `<svg width="247" height="479" viewBox="0 0 247 479" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M246.95 25.08V42.04L241.49 44.52V456.33H239.38L233.35 444.21H168.16L166.2 448.13H161.99L161.49 447.13L160.03 444.21H91.56L89.6 448.13H88.49V449.86H88.66V467.05L88.64 467.09L88.49 467.34L81.89 478.23H77.52L77.47 478.19L75.66 476.6H2.87L1.89001 478.23H0V448.04H14.49V266.04H77.49V46H85.49V1.94H87.19V0H88.5V2.89L88.53 3L91.31 14.95H235.9L236.88 12.98H240.99V13.16L246.95 25.08Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "310px",
+            left: "648px",
+            width: "210px",
+          },
+          {
+            apartment: 38,
+            svg: `<svg width="256" height="476" viewBox="0 0 256 476" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M255.18 162V217.03H211.18V300.03H174.19V462.4H176.76L176.78 473.56H116.02L114.15 475.19H109.78L105.01 467.24V446.82H105.18V443.21H0V299.87L18.19 299.88L9.59 296.09V292.71L16.8 290.78V273.25L9.59 271.32V267.94L9.68999 267.9L21.18 262.83H26.36V263H28.21V243H26.36V243.17H17.47L9.59999 231.79V227.58L14.61 224.57V222.07H15.61V220.82H14.61V218.07H15.61V216.82H14.61V214.54L23.9 211.81H26.36V211.98H28.09V203.89L28.19 203.84L32.01 201.94V150.07L28.09 148.11V143.89L32.01 141.94V89.37L28.09 87.41V83.19L32.01 81.24V16.67L28.09 14.71V10.49L40.26 4.42H55.18V0H248.6V162H255.18Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "310px",
+            left: "368px",
+            width: "217px",
+          },
         ],
       },
     },
@@ -320,212 +869,730 @@ const block2Data = {
 `,
       entrances: {
         r3: [
-          { apartment: 1, svg: "/svg/blocks/block-2/floors/3/r3/1.svg" },
-          { apartment: 2, svg: "/svg/blocks/block-2/floors/3/r3/2.svg" },
-          { apartment: 3, svg: "/svg/blocks/block-2/floors/3/r3/3.svg" },
-          { apartment: 4, svg: "/svg/blocks/block-2/floors/3/r3/4.svg" },
-          { apartment: 5, svg: "/svg/blocks/block-2/floors/3/r3/5.svg" },
-          { apartment: 6, svg: "/svg/blocks/block-2/floors/3/r3/6.svg" },
-          { apartment: 7, svg: "/svg/blocks/block-2/floors/3/r3/7.svg" },
+          {
+            apartment: 1,
+            svg: `<svg width="236" height="230" viewBox="0 0 236 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M235.69 229.9H6.53998L5.52997 14.01H0V3.91H2.15002L6.88 0H12.94V0.610001H14.5L22.74 19.98H79.79L81.53 17.12H85.51L87.28 19.98L152.15 20.04L155.63 16.99H159.84L161.63 19.98H235.55L235.69 229.9Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "220px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 2,
+            svg: `<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 3,
+            svg: `<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 4,
+            svg: `<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 5,
+            svg: `<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+  `,
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 6,
+            svg: `<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02L10.14 6.14H22.08V0.139999L28.1 0.130005L29.31 3H86.36L88.01 0H92.18L92.22 0.0700073L93.83 3H142.87L143.91 0.149994H151.1V1.05H153.12V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 7,
+            svg: `<svg width="236" height="240" viewBox="0 0 236 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M222.77 0.610001V0H228.83L233.56 3.91H235.71V14.01H230.18V45.01H229.18L229.16 230.03H224.14V239.04H137.14V230.04L11.14 230.03V230.17H3.16V48.01H1.14001V47.11H0V42.65L0.140015 20.18H2.13L73.84 20.1L75.78 16.86H80.13L80.18 16.89L83.67 20.18H140.28L142.07 16.95H146.24L146.29 17.02L147.99 20.18H212.85L221.21 0.610001H222.77Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "220px",
+            left: "660px",
+            width: "300px",
+          },
         ],
       },
     },
     {
       floor: 4,
-      svg: `<svg width="679" height="71" viewBox="0 0 679 71" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 69H2V2H677V69Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 8, svg: "/svg/blocks/block-2/floors/4/r3/8.svg" },
-          { apartment: 9, svg: "/svg/blocks/block-2/floors/4/r3/9.svg" },
-          { apartment: 10, svg: "/svg/blocks/block-2/floors/4/r3/10.svg" },
-          { apartment: 11, svg: "/svg/blocks/block-2/floors/4/r3/11.svg" },
-          { apartment: 12, svg: "/svg/blocks/block-2/floors/4/r3/12.svg" },
-          { apartment: 13, svg: "/svg/blocks/block-2/floors/4/r3/13.svg" },
-          { apartment: 14, svg: "/svg/blocks/block-2/floors/4/r3/14.svg" },
-        ],
-      },
-    },
-    {
-      floor: 5,
-      svg: `<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 15, svg: "/svg/blocks/block-2/floors/5/r3/15.svg" },
-          { apartment: 16, svg: "/svg/blocks/block-2/floors/5/r3/16.svg" },
-          { apartment: 17, svg: "/svg/blocks/block-2/floors/5/r3/17.svg" },
-          { apartment: 18, svg: "/svg/blocks/block-2/floors/5/r3/18.svg" },
-          { apartment: 19, svg: "/svg/blocks/block-2/floors/5/r3/19.svg" },
-          { apartment: 20, svg: "/svg/blocks/block-2/floors/5/r3/20.svg" },
-          { apartment: 21, svg: "/svg/blocks/block-2/floors/5/r3/21.svg" },
-        ],
-      },
-    },
-    {
-      floor: 6,
-      svg: `<svg width="679" height="72" viewBox="0 0 679 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 70H2V2H677V70Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 22, svg: "/svg/blocks/block-2/floors/6/r3/22.svg" },
-          { apartment: 23, svg: "/svg/blocks/block-2/floors/6/r3/23.svg" },
-          { apartment: 24, svg: "/svg/blocks/block-2/floors/6/r3/24.svg" },
-          { apartment: 25, svg: "/svg/blocks/block-2/floors/6/r3/25.svg" },
-          { apartment: 26, svg: "/svg/blocks/block-2/floors/6/r3/26.svg" },
-          { apartment: 27, svg: "/svg/blocks/block-2/floors/6/r3/27.svg" },
-          { apartment: 28, svg: "/svg/blocks/block-2/floors/6/r3/28.svg" },
-        ],
-      },
-    },
-    {
-      floor: 7,
-      svg: `<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 29, svg: "/svg/blocks/block-2/floors/7/r3/29.svg" },
-          { apartment: 30, svg: "/svg/blocks/block-2/floors/7/r3/30.svg" },
-          { apartment: 31, svg: "/svg/blocks/block-2/floors/7/r3/31.svg" },
-          { apartment: 32, svg: "/svg/blocks/block-2/floors/7/r3/32.svg" },
-          { apartment: 33, svg: "/svg/blocks/block-2/floors/7/r3/33.svg" },
-          { apartment: 34, svg: "/svg/blocks/block-2/floors/7/r3/34.svg" },
-          { apartment: 35, svg: "/svg/blocks/block-2/floors/7/r3/35.svg" },
-        ],
-      },
-    },
-    {
-      floor: 8,
-      svg: `<svg width="679" height="69" viewBox="0 0 679 69" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 67H2V2H677V67Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 36, svg: "/svg/blocks/block-2/floors/8/r3/36.svg" },
-          { apartment: 37, svg: "/svg/blocks/block-2/floors/8/r3/37.svg" },
-          { apartment: 38, svg: "/svg/blocks/block-2/floors/8/r3/38.svg" },
-          { apartment: 39, svg: "/svg/blocks/block-2/floors/8/r3/39.svg" },
-          { apartment: 40, svg: "/svg/blocks/block-2/floors/8/r3/40.svg" },
-          { apartment: 41, svg: "/svg/blocks/block-2/floors/8/r3/41.svg" },
-          { apartment: 42, svg: "/svg/blocks/block-2/floors/8/r3/42.svg" },
-        ],
-      },
-    },
-    {
-      floor: 9,
-      svg: `<svg width="679" height="64" viewBox="0 0 679 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 62H2V2H677V62Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 43, svg: "/svg/blocks/block-2/floors/9/r3/43.svg" },
-          { apartment: 44, svg: "/svg/blocks/block-2/floors/9/r3/44.svg" },
-          { apartment: 45, svg: "/svg/blocks/block-2/floors/9/r3/45.svg" },
-          { apartment: 46, svg: "/svg/blocks/block-2/floors/9/r3/46.svg" },
-          { apartment: 47, svg: "/svg/blocks/block-2/floors/9/r3/47.svg" },
-          { apartment: 48, svg: "/svg/blocks/block-2/floors/9/r3/48.svg" },
-          { apartment: 49, svg: "/svg/blocks/block-2/floors/9/r3/49.svg" },
-        ],
-      },
-    },
-    {
-      floor: 10,
-      svg: `<svg width="679" height="67" viewBox="0 0 679 67" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 65H2V2H677V65Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 50, svg: "/svg/blocks/block-2/floors/10/r3/50.svg" },
-          { apartment: 51, svg: "/svg/blocks/block-2/floors/10/r3/51.svg" },
-          { apartment: 52, svg: "/svg/blocks/block-2/floors/10/r3/52.svg" },
-          { apartment: 53, svg: "/svg/blocks/block-2/floors/10/r3/53.svg" },
-          { apartment: 54, svg: "/svg/blocks/block-2/floors/10/r3/54.svg" },
-          { apartment: 55, svg: "/svg/blocks/block-2/floors/10/r3/55.svg" },
-          { apartment: 56, svg: "/svg/blocks/block-2/floors/10/r3/56.svg" },
-        ],
-      },
-    },
-    {
-      floor: 11,
-      svg: `<svg width="679" height="69" viewBox="0 0 679 69" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 67H2V2H677V67Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 57, svg: "/svg/blocks/block-2/floors/11/r3/57.svg" },
-          { apartment: 58, svg: "/svg/blocks/block-2/floors/11/r3/58.svg" },
-          { apartment: 59, svg: "/svg/blocks/block-2/floors/11/r3/59.svg" },
-          { apartment: 60, svg: "/svg/blocks/block-2/floors/11/r3/60.svg" },
-          { apartment: 61, svg: "/svg/blocks/block-2/floors/11/r3/61.svg" },
-          { apartment: 62, svg: "/svg/blocks/block-2/floors/11/r3/62.svg" },
-          { apartment: 63, svg: "/svg/blocks/block-2/floors/11/r3/63.svg" },
-        ],
-      },
-    },
-    {
-      floor: 12,
-      svg: `<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
-      entrances: {
-        r3: [
-          { apartment: 64, svg: "/svg/blocks/block-2/floors/12/r3/64.svg" },
-          { apartment: 65, svg: "/svg/blocks/block-2/floors/12/r3/65.svg" },
-          { apartment: 66, svg: "/svg/blocks/block-2/floors/12/r3/66.svg" },
-          { apartment: 67, svg: "/svg/blocks/block-2/floors/12/r3/67.svg" },
-          { apartment: 68, svg: "/svg/blocks/block-2/floors/12/r3/68.svg" },
-          { apartment: 69, svg: "/svg/blocks/block-2/floors/12/r3/69.svg" },
-          { apartment: 70, svg: "/svg/blocks/block-2/floors/12/r3/70.svg" },
-        ],
-      },
-    },
-    {
-      floor: 13,
-      svg: `<svg width="679" height="74" viewBox="0 0 679 74" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 72H2V2H677V72Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
+      svg: `<svg width="679" height="59" viewBox="0 0 679 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M677 57H2V2H677V57Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
 </svg>
 
 `,
       entrances: {
         r3: [
-          { apartment: 71, svg: "/svg/blocks/block-2/floors/13/r3/71.svg" },
-          { apartment: 72, svg: "/svg/blocks/block-2/floors/13/r3/72.svg" },
-          { apartment: 73, svg: "/svg/blocks/block-2/floors/13/r3/73.svg" },
-          { apartment: 74, svg: "/svg/blocks/block-2/floors/13/r3/74.svg" },
-          { apartment: 75, svg: null, unavailable: true },
-          { apartment: 76, svg: "/svg/blocks/block-2/floors/13/r3/76.svg" },
-          { apartment: 77, svg: "/svg/blocks/block-2/floors/13/r3/77.svg" },
+          {
+            apartment: 8,
+            svg: `<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 9,
+            svg: `<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 10,
+            svg: `<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 11,
+            svg: `<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 12,
+            svg: `<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 13,
+            svg: `<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 14,
+            svg: `<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+
+`,
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 5,
+      svg: '<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 15,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 16,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 17,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 18,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 19,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 20,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 21,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 6,
+      svg: '<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 22,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 23,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 24,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 25,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 26,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 27,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 28,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 7,
+      svg: '<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 29,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 30,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 31,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 32,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 33,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 34,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 35,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 8,
+      svg: '<svg width="679" height="61" viewBox="0 0 679 61" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 59H2V2H677V59Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 36,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 37,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 38,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 39,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 40,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 41,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 42,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 9,
+      svg: '<svg width="679" height="64" viewBox="0 0 679 64" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 62H2V2H677V62Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 43,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 44,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 45,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 46,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 47,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 48,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 49,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 10,
+      svg: '<svg width="679" height="67" viewBox="0 0 679 67" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 65H2V2H677V65Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 50,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 51,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 52,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 53,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 54,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 55,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 56,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 11,
+      svg: '<svg width="679" height="61" viewBox="0 0 679 61" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 59H2V2H677V59Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 57,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 58,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 59,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 60,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 61,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 62,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 63,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 12,
+      svg: '<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 64,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 65,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 66,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 67,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 68,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 69,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 70,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
+        ],
+      },
+    },
+    {
+      floor: 13,
+      svg: '<svg width="679" height="62" viewBox="0 0 679 62" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 60H2V2H677V60Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
+      entrances: {
+        r3: [
+          {
+            apartment: 71,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 72,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 73,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 74,
+            svg: null,
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 75,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            unavailable: true,
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 76,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 77,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
         ],
       },
     },
     {
       floor: 14,
-      svg: `<svg width="679" height="63" viewBox="0 0 679 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M677 61H2V2H677V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="679" height="59" viewBox="0 0 679 59" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M677 57H2V2H677V57Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
         r3: [
-          { apartment: 78, svg: "/svg/blocks/block-2/floors/14/r3/78.svg" },
-          { apartment: 79, svg: "/svg/blocks/block-2/floors/14/r3/79.svg" },
-          { apartment: 80, svg: "/svg/blocks/block-2/floors/14/r3/80.svg" },
-          { apartment: 81, svg: "/svg/blocks/block-2/floors/14/r3/81.svg" },
-          { apartment: 82, svg: "/svg/blocks/block-2/floors/14/r3/82.svg" },
-          { apartment: 83, svg: "/svg/blocks/block-2/floors/14/r3/83.svg" },
-          { apartment: 84, svg: "/svg/blocks/block-2/floors/14/r3/84.svg" },
+          {
+            apartment: 78,
+            svg: '<svg width="231" height="224" viewBox="0 0 231 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M230.18 36.62V223.87H1.02997V2H0V0H11.32L16.36 11.82H75.38L75.93 10.92H80.1L80.14 10.99L80.64 11.82H148.92L150.06 10.83H154.41L159.17 18.76V28.76L161.85 28.83L166.16 37V41.82H205.88L205.9 36.93L210.2 28.83H214.43L217.43 33.84H219.93V34.84H221.23V33.84H223.93V34.84H225.23V33.84H227.41L227.46 33.89L230.18 36.62Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "230px",
+            left: "1145px",
+            width: "295px",
+          },
+          {
+            apartment: 79,
+            svg: '<svg width="159" height="223" viewBox="0 0 159 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M154.79 121.75V198.55L158.6 202.36V205.4H155.56L151.75 201.59H134.95L133.11 205.4H129.24L129.2 205.32L128.72 204.31V221.47H15.34L15.18 222.15H0V70.43H1.38V40.29L37.52 40.3V35.75L37.5 0H148.65V111.22L158.6 116.04V119.9L154.79 121.75Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1250px",
+            width: "205px",
+          },
+          {
+            apartment: 80,
+            svg: '<svg width="206" height="223" viewBox="0 0 206 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M205.68 190.9L205.37 192.17H199.14L199.13 214.24L196.63 222.16H190.03L189.99 222.13L188.64 221.07V221.11H117.02L116.38 222.17L112.19 222.16L109.5 221.09V221.11H35.23L34.71 222.14H31.91V4.5H0V0H68V9L191.88 9.04001V39.18H190.5V190.9H205.68Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "553px",
+            left: "1010px",
+            width: "260px",
+          },
+          {
+            apartment: 81,
+            svg: '<svg width="160" height="218" viewBox="0 0 160 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M128 0V4.5H0V217.64H2.72L3.22998 216.61H156.76L157.28 217.64H159.91V0H128Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "845px",
+            width: "205px",
+          },
+          {
+            apartment: 82,
+            svg: '<svg width="148" height="218" viewBox="0 0 148 218" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M147.04 4.5V217.64H144.32L143.81 216.61H80.41L78.82 217.67H74.64L74.59 217.59L74 216.61H10.33L8.98999 217.66H2.38998L0 210.07V186.4H5.97V0H11.02V4.5H147.04Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "560px",
+            left: "660px",
+            width: "187px",
+          },
+          {
+            apartment: 83,
+            svg: '<svg width="162" height="429" viewBox="0 0 162 429" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M161.09 183.21V218.57H156.04V404.97H150.07V428.64L149.95 428.26V406.24H143.71L143.68 406.12L143.24 404.25H29.94V387.02L29.35 388.22H25.49L23.65 384.41H6.85001L3.03 388.22H0V385.19L0.0400085 385.14L3.81 381.37V304.56L0 302.71V298.86L9.98 294.02V6H21.92V0H28.19L28.23 0.0899963L28.57 0.880005H87.48L88.01 0H92.18L92.22 0.0700073L92.72 0.889999H143.59L143.91 0.149994H155.99V183.21H161.09Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "280px",
+            left: "470px",
+            width: "205px",
+          },
+          {
+            apartment: 84,
+            svg: '<svg width="237" height="234" viewBox="0 0 237 234" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M224.84 0H236.38V2.15001H235.2V224.15H230.18V233.16H143.18V224.16L17.18 224.15V224.29H12.08V41.23H0L0.0599976 41.08H6.04001V36.77L8.81 33.99H11V34.99H12.3V33.99H15V34.99H16.3V33.99H18.79L21.8 28.98H26.03L26.07 29.06L30.34 37.15V41.97H62.04V41.23L62.05 37.08L66.35 28.98H70.58L70.63 29.05L75.4 37H77.06V18.91L77.08 18.88L81.82 10.98H86.17L86.22 11.01L87.3 11.97H147.57L148.11 11.07H152.28L152.33 11.14L152.83 11.97H219.72L224.84 0Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n\n',
+            top: "230px",
+            left: "650px",
+            width: "300px",
+          },
         ],
       },
     },
@@ -538,8 +1605,28 @@ const block2Data = {
 `,
       entrances: {
         r3: [
-          { apartment: 85, svg: "/svg/blocks/block-2/floors/15/r3/85.svg" },
-          { apartment: 86, svg: "/svg/blocks/block-2/floors/15/r3/86.svg" },
+          {
+            apartment: 85,
+            svg: `<svg width="318" height="478" viewBox="0 0 318 478" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M313.38 345.5V422.3L317.19 426.11V429.15H314.15L310.34 425.34H293.54L291.7 429.15H287.83L287.79 429.07L287.31 428.06V445.22H173.93L173.77 445.9L173.46 447.17H167.23L167.22 469.24L164.72 477.16H158.12L158.08 477.13L156.73 476.07V476.11H85.11L84.47 477.17L80.28 477.16L77.59 476.09V476.11H3.32001L2.79999 477.14H0V264L78.09 264.02V2H77.06V0H88.38L93.42 11.82H152.44L152.99 10.92H157.16L157.2 10.99L157.7 11.82H225.98L227.12 10.83H231.47L236.23 18.76V28.76L238.91 28.83L243.22 37V41.82H282.94L282.96 36.93L287.26 28.83H291.49L294.49 33.84H296.99V34.84H298.29V33.84H300.99V34.84H302.29V33.84H304.47L304.52 33.89L307.24 36.62V334.97L317.19 339.79V343.65L313.38 345.5Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+
+`,
+            top: "230px",
+            left: "1050px",
+            width: "400px",
+          },
+          {
+            apartment: 86,
+            svg: `<svg width="381" height="478" viewBox="0 0 381 478" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M380.29 0V2.15001H379.11V224.15H301.03V266.93H297.11V477.29H294.39L293.88 476.26H230.48L228.89 477.32H224.71L224.66 477.24L224.07 476.26H160.4L159.06 477.31H152.46L150.07 469.72L149.95 469.34V447.32H143.71L143.68 447.2L143.24 445.33H29.94V428.1L29.35 429.3H25.49L23.65 425.49H6.85001L3.03 429.3H0V426.27L0.0400085 426.22L3.81 422.45V345.64L0 343.79V339.94L9.98 335.1V47.08H21.92V41.08H28.19L28.23 41.17L28.57 41.96H87.48L88.01 41.08H92.18L92.22 41.15L92.72 41.97H143.59L143.91 41.23L143.97 41.08H149.95V36.77L152.72 33.99H154.91V34.99H156.21V33.99H158.91V34.99H160.21V33.99H162.7L165.71 28.98H169.94L169.98 29.06L174.25 37.15V41.97H205.95V41.23L205.96 37.08L210.26 28.98H214.49L214.54 29.05L219.31 37H220.97V18.91L220.99 18.88L225.73 10.98H230.08L230.13 11.01L231.21 11.97H291.48L292.02 11.07H296.19L296.24 11.14L296.74 11.97H363.63L368.75 0H380.29Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+
+`,
+            top: "230px",
+            left: "470px",
+            width: "480px",
+          },
         ],
       },
     },
@@ -558,18 +1645,73 @@ const block3Data = {
   floors: [
     {
       floor: 3,
-      svg: `<svg width="596" height="58" viewBox="0 0 596 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M594 56H2V2H557.5V33.4563H594V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
+      svg: `<svg width="560" height="54" viewBox="0 0 560 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M558 52H2V2H558V52Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
 </svg>
+
 `,
       entrances: {
         r4: [
-          { apartment: 1, svg: "/svg/blocks/block-3/floors/3/r4/1.svg" },
-          { apartment: 2, svg: "/svg/blocks/block-3/floors/3/r4/2.svg" },
-          { apartment: 3, svg: "/svg/blocks/block-3/floors/3/r4/3.svg" },
-          { apartment: 4, svg: "/svg/blocks/block-3/floors/3/r4/4.svg" },
-          { apartment: 5, svg: "/svg/blocks/block-3/floors/3/r4/5.svg" },
-          { apartment: 6, svg: "/svg/blocks/block-3/floors/3/r4/6.svg" },
+          {
+            apartment: 1,
+            svg: `<svg width="260" height="220" viewBox="0 0 260 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M259.99 219.6H259.34L0 219.51V9H33.5V1L259.34 0L259.99 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "542px",
+            left: "462px",
+            width: "330px",
+          },
+          {
+            apartment: 2,
+            svg: `<svg width="295" height="266" viewBox="0 0 295 266" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M294.98 215.48V220.18H289.99V256.68H62.08V265.22H0V31.19H139V30.01H138.88V0H141.22V0.00999451L143.11 0.019989L150.62 3H283.16L283.91 0H286V215.48H294.98Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "218px",
+            left: "427px",
+            width: "370px",
+          },
+          {
+            apartment: 3,
+            svg: `<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 4,
+            svg: `<svg width="173" height="221" viewBox="0 0 173 221" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M160.66 34.29V220.97L159.52 219.83L159.62 219.73H158.66V218.18H155.91V215.18H50.9V215.48H0V0H2.10999L2.84998 3H155.4L162.97 0L164.93 0.179993L172.32 34.29H160.66Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 5,
+            svg: `<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M136.18 0L133.98 4.28999H11.66L11.44 3.3H0V407.14H6.42004L6.25 405.22H136.01L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 6,
+            svg: `<svg width="168" height="226" viewBox="0 0 168 226" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M167.28 181.96V185.18H165.34V215.17L163.11 215.16L155.58 212.18L154.35 209.96H17.75L16.68 212L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H167.28Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "542px",
+            left: "995px",
+            width: "210px",
+          },
         ],
       },
     },
@@ -581,183 +1723,567 @@ const block3Data = {
 `,
       entrances: {
         r4: [
-          { apartment: 7, svg: "/svg/blocks/block-3/floors/4/r4/7.svg" },
-          { apartment: 8, svg: "/svg/blocks/block-3/floors/4/r4/8.svg" },
-          { apartment: 9, svg: "/svg/blocks/block-3/floors/4/r4/9.svg" },
-          { apartment: 10, svg: "/svg/blocks/block-3/floors/4/r4/10.svg" },
-          { apartment: 11, svg: "/svg/blocks/block-3/floors/4/r4/11.svg" },
-          { apartment: 12, svg: "/svg/blocks/block-3/floors/4/r4/12.svg" },
+          {
+            apartment: 7,
+            svg: `<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 8,
+            svg: `<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 9,
+            svg: `<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 10,
+            svg: `<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 11,
+            svg: `<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 12,
+            svg: `<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 5,
-      svg: `<svg width="559" height="60" viewBox="0 0 559 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 58H2V2H557V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="54" viewBox="0 0 559 54" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 52H2V2H557V52Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
         r4: [
-          { apartment: 13, svg: "/svg/blocks/block-3/floors/5/r4/13.svg" },
-          { apartment: 14, svg: "/svg/blocks/block-3/floors/5/r4/14.svg" },
-          { apartment: 15, svg: "/svg/blocks/block-3/floors/5/r4/15.svg" },
-          { apartment: 16, svg: "/svg/blocks/block-3/floors/5/r4/16.svg" },
-          { apartment: 17, svg: "/svg/blocks/block-3/floors/5/r4/17.svg" },
-          { apartment: 18, svg: "/svg/blocks/block-3/floors/5/r4/18.svg" },
+          {
+            apartment: 13,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 14,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 15,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 16,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 17,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 18,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 6,
-      svg: `<svg width="560" height="55" viewBox="0 0 560 55" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557.035 52.3529H2V2H557.035V52.3529Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="560" height="55" viewBox="0 0 560 55" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557.035 52.3529H2V2H557.035V52.3529Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r4: [
-          { apartment: 19, svg: "/svg/blocks/block-3/floors/6/r4/19.svg" },
-          { apartment: 20, svg: "/svg/blocks/block-3/floors/6/r4/20.svg" },
-          { apartment: 21, svg: "/svg/blocks/block-3/floors/6/r4/21.svg" },
-          { apartment: 22, svg: "/svg/blocks/block-3/floors/6/r4/22.svg" },
-          { apartment: 23, svg: "/svg/blocks/block-3/floors/6/r4/23.svg" },
-          { apartment: 24, svg: "/svg/blocks/block-3/floors/6/r4/24.svg" },
+          {
+            apartment: 19,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 20,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 21,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 22,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 23,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 24,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 7,
-      svg: `<svg width="559" height="60" viewBox="0 0 559 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 58H2V2H557V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="60" viewBox="0 0 559 60" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 58H2V2H557V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r4: [
-          { apartment: 25, svg: "/svg/blocks/block-3/floors/7/r4/25.svg" },
-          { apartment: 26, svg: "/svg/blocks/block-3/floors/7/r4/26.svg" },
-          { apartment: 27, svg: "/svg/blocks/block-3/floors/7/r4/27.svg" },
-          { apartment: 28, svg: "/svg/blocks/block-3/floors/7/r4/28.svg" },
-          { apartment: 29, svg: "/svg/blocks/block-3/floors/7/r4/29.svg" },
-          { apartment: 30, svg: "/svg/blocks/block-3/floors/7/r4/30.svg" },
+          {
+            apartment: 25,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 26,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 27,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 28,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 29,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 30,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 8,
-      svg: `<svg width="559" height="57" viewBox="0 0 559 57" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 55H2V2H557V55Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-
-`,
+      svg: '<svg width="559" height="51" viewBox="0 0 559 51" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 49H2V2H557V49Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
         r4: [
-          { apartment: 31, svg: "/svg/blocks/block-3/floors/8/r4/31.svg" },
-          { apartment: 32, svg: "/svg/blocks/block-3/floors/8/r4/32.svg" },
-          { apartment: 33, svg: "/svg/blocks/block-3/floors/8/r4/33.svg" },
-          { apartment: 34, svg: "/svg/blocks/block-3/floors/8/r4/34.svg" },
-          { apartment: 35, svg: "/svg/blocks/block-3/floors/8/r4/35.svg" },
-          { apartment: 36, svg: "/svg/blocks/block-3/floors/8/r4/36.svg" },
+          {
+            apartment: 31,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 32,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 33,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 34,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 35,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 36,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 9,
-      svg: `<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r4: [
-          { apartment: 37, svg: "/svg/blocks/block-3/floors/9/r4/37.svg" },
-          { apartment: 38, svg: "/svg/blocks/block-3/floors/9/r4/38.svg" },
-          { apartment: 39, svg: "/svg/blocks/block-3/floors/9/r4/39.svg" },
-          { apartment: 40, svg: "/svg/blocks/block-3/floors/9/r4/40.svg" },
-          { apartment: 41, svg: "/svg/blocks/block-3/floors/9/r4/41.svg" },
-          { apartment: 42, svg: "/svg/blocks/block-3/floors/9/r4/42.svg" },
+          {
+            apartment: 37,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 38,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 39,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 40,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 41,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 42,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 10,
-      svg: `<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r4: [
-          { apartment: 43, svg: "/svg/blocks/block-3/floors/10/r4/43.svg" },
-          { apartment: 44, svg: "/svg/blocks/block-3/floors/10/r4/44.svg" },
-          { apartment: 45, svg: "/svg/blocks/block-3/floors/10/r4/45.svg" },
-          { apartment: 46, svg: "/svg/blocks/block-3/floors/10/r4/46.svg" },
-          { apartment: 47, svg: "/svg/blocks/block-3/floors/10/r4/47.svg" },
-          { apartment: 48, svg: "/svg/blocks/block-3/floors/10/r4/48.svg" },
+          {
+            apartment: 43,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 44,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 45,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 46,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 47,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 48,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 11,
-      svg: `<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="51" viewBox="0 0 559 51" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 49H2V2H557V49Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
         r4: [
-          { apartment: 49, svg: "/svg/blocks/block-3/floors/11/r4/49.svg" },
-          { apartment: 50, svg: "/svg/blocks/block-3/floors/11/r4/50.svg" },
-          { apartment: 51, svg: "/svg/blocks/block-3/floors/11/r4/51.svg" },
-          { apartment: 52, svg: "/svg/blocks/block-3/floors/11/r4/52.svg" },
-          { apartment: 53, svg: "/svg/blocks/block-3/floors/11/r4/53.svg" },
-          { apartment: 54, svg: "/svg/blocks/block-3/floors/11/r4/54.svg" },
+          {
+            apartment: 49,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 50,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 51,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 52,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 53,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 54,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 12,
-      svg: `<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r4: [
-          { apartment: 55, svg: "/svg/blocks/block-3/floors/12/r4/55.svg" },
-          { apartment: 56, svg: "/svg/blocks/block-3/floors/12/r4/56.svg" },
-          { apartment: 57, svg: "/svg/blocks/block-3/floors/12/r4/57.svg" },
-          { apartment: 58, svg: "/svg/blocks/block-3/floors/12/r4/58.svg" },
-          { apartment: 59, svg: "/svg/blocks/block-3/floors/12/r4/59.svg" },
-          { apartment: 60, svg: "/svg/blocks/block-3/floors/12/r4/60.svg" },
+          {
+            apartment: 55,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 56,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 57,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 58,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 59,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 60,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 13,
-      svg: `<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
         r4: [
-          { apartment: 61, svg: "/svg/blocks/block-3/floors/13/r4/61.svg" },
-          { apartment: 62, svg: "/svg/blocks/block-3/floors/13/r4/62.svg" },
-          { apartment: 63, svg: null, unavailable: true },
-          { apartment: 64, svg: "/svg/blocks/block-3/floors/13/r4/64.svg" },
-          { apartment: 65, svg: "/svg/blocks/block-3/floors/13/r4/65.svg" },
-          { apartment: 66, svg: "/svg/blocks/block-3/floors/13/r4/66.svg" },
+          {
+            apartment: 61,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 62,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 63,
+            svg: null,
+            unavailable: true,
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 64,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 65,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 66,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 14,
-      svg: `<svg width="559" height="58" viewBox="0 0 559 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M557 56H2V2H557V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="559" height="51" viewBox="0 0 559 51" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M557 49H2V2H557V49Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
         r4: [
-          { apartment: 67, svg: "/svg/blocks/block-3/floors/14/r4/67.svg" },
-          { apartment: 68, svg: "/svg/blocks/block-3/floors/14/r4/68.svg" },
-          { apartment: 69, svg: "/svg/blocks/block-3/floors/14/r4/69.svg" },
-          { apartment: 70, svg: "/svg/blocks/block-3/floors/14/r4/70.svg" },
-          { apartment: 71, svg: "/svg/blocks/block-3/floors/14/r4/71.svg" },
-          { apartment: 72, svg: "/svg/blocks/block-3/floors/14/r4/72.svg" },
+          {
+            apartment: 67,
+            svg: '<svg width="228" height="224" viewBox="0 0 228 224" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M227.91 219.6H227.26L28.1 219.5V222.19L30.07 222.2V223.63H0V0H227.26L227.91 219.6Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "540px",
+            left: "503px",
+            width: "290px",
+          },
+          {
+            apartment: 68,
+            svg: '<svg width="267" height="271" viewBox="0 0 267 271" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M266.1 215.48V220.18H261.11V256.68H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 69,
+            svg: '<svg width="161" height="216" viewBox="0 0 161 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M160.08 0V215.48H110.99V215.18H67.79V215.48H25.72V215.35H25.79V215.18H8.97998V215.48H0V0H2.18997L2.92999 3H157.17L157.91 0H160.08Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "218px",
+            left: "790px",
+            width: "205px",
+          },
+          {
+            apartment: 70,
+            svg: '<svg width="174" height="223" viewBox="0 0 174 223" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.12 34.46V34.75H160.66V222.42L159.52 221.28L159.62 221.18H158.66V219.63H155.91V216.63H50.9V216.93H0V1.45H2.10999L2.84998 4.45H155.4L162.97 1.45H164.8V0L165.11 1.45H165.14V1.60999L172.26 34.46H173.12Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "215px",
+            left: "990px",
+            width: "218px",
+          },
+          {
+            apartment: 71,
+            svg: '<svg width="144" height="411" viewBox="0 0 144 411" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M136.18 0L134.52 3.00999H12.46V3.3H0V407.14H12.46V407.31H136.35L136.88 410.21L136.91 410.35H143.42V377.01H143.25V339.18H143.22V263.18H143.25V30.35H143.43V0H136.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "250px",
+            left: "1195px",
+            width: "185px",
+          },
+          {
+            apartment: 72,
+            svg: '<svg width="174" height="226" viewBox="0 0 174 226" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M173.32 181.96V182.13H167.28V185.18H165.34V215.17L163.11 215.16L155.58 212.18H16.76L9.20001 215.17H7.34003V225.17H0V221.82H0.109985V0H160.86V181.96H173.32Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "545px",
+            left: "995px",
+            width: "215px",
+          },
         ],
       },
     },
@@ -769,8 +2295,26 @@ const block3Data = {
 `,
       entrances: {
         r4: [
-          { apartment: 73, svg: "/svg/blocks/block-3/floors/15/r4/73.svg" },
-          { apartment: 74, svg: "/svg/blocks/block-3/floors/15/r4/74.svg" },
+          {
+            apartment: 73,
+            svg: `<svg width="267" height="481" viewBox="0 0 267 481" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M266.1 215.48V220.18H261.11V256.68H260.46L261.11 476.28H260.46L61.3 476.18V478.87L63.27 478.88V480.31H33.2V270.19L2.75 264.35H2.59L2.61 262.12L5.64 254.48L5.72 254.46L18.59 250.69V248.27H19.59V247.02H18.59V244.27H19.59V243.02H18.59V240.79L18.66 240.74L29.93 231.15V231.01H30.1L30.34 230.8V231.01H32.94L32.93 216.54V215.36H30.34V215.56L30.11 215.36H29.93V215.21L18.59 205.57V203.34H19.59V202.09H18.59V199.34H19.59V198.09H18.59V195.67L5.66 191.89L5.62999 191.84L0 184.24V182H0.149994L2.97 181.53V34.55H109.93V30.01H110V0H112.34V0.00999451L114.23 0.019989L121.74 3H254.28L255.03 0H257.12V215.48H266.1Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "215px",
+            left: "460px",
+            width: "340px",
+          },
+          {
+            apartment: 74,
+            svg: `<svg width="305" height="482" viewBox="0 0 305 482" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M304.08 294.63V370.63H304.11V408.46H304.28V441.8H297.77L297.74 441.66L297.22 438.76H167.28V441.81H165.34V471.8L163.11 471.79L155.58 468.81H16.76L9.20001 471.8H7.34003V481.8H0V478.45H0.109985V256.63H0.200012V1.45H2.31L3.04999 4.45H155.6L163.17 1.45H165V0L165.31 1.45H165.34V1.60999L172.47 34.46H295.38L297.04 31.45H304.29V61.8H304.11V294.63H304.08Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "215px",
+            left: "993px",
+            width: "390px",
+          },
         ],
       },
     },
@@ -795,21 +2339,129 @@ const block4Data = {
 </svg>
 `,
       entrances: {
-        r5: [
-          { apartment: 1, svg: "/svg/blocks/block-4/floors/3/r5/1.svg" },
-          { apartment: 2, svg: "/svg/blocks/block-4/floors/3/r5/2.svg" },
-          { apartment: 3, svg: "/svg/blocks/block-4/floors/3/r5/3.svg" },
-          { apartment: 4, svg: "/svg/blocks/block-4/floors/3/r5/4.svg" },
-          { apartment: 5, svg: "/svg/blocks/block-4/floors/3/r5/5.svg" },
-          { apartment: 6, svg: "/svg/blocks/block-4/floors/3/r5/6.svg" },
-        ],
         r6: [
-          { apartment: 1, svg: "/svg/blocks/block-4/floors/3/r6/1.svg" },
-          { apartment: 2, svg: "/svg/blocks/block-4/floors/3/r6/2.svg" },
-          { apartment: 3, svg: "/svg/blocks/block-4/floors/3/r6/3.svg" },
-          { apartment: 4, svg: "/svg/blocks/block-4/floors/3/r6/4.svg" },
-          { apartment: 5, svg: "/svg/blocks/block-4/floors/3/r6/5.svg" },
-          { apartment: 6, svg: "/svg/blocks/block-4/floors/3/r6/6.svg" },
+          {
+            apartment: 1,
+            svg: `<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M166.36 222.82V232.17H166.18C162.97 232.17 160.36 234.78 160.36 237.99V238.17H158.12L158.07 238.13L152.01 233.08V228.17H150.36V233.17H148.04L142.43 209.99L25.46 210.01L24.1201 214.99H17.84L17.66 215.02L14.6801 192.16H13.0601V190.16H11.8101V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35H166.36Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "540px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 2,
+            svg: `<svg width="148" height="444" viewBox="0 0 148 444" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M146.02 191.53L146.01 208.79L146 228.22H138V414.65H144L147.06 438.18H75.85L74.91 443.18L69.04 443.09L68.08 438.2H3.88995H3.54999H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 3,
+            svg: `<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 4,
+            svg: `<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 5,
+            svg: `<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 6,
+            svg: `<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 1,
+            svg: `<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M261.36 222.82V232.17H261.18C257.97 232.17 255.36 234.78 255.36 237.99V238.17H253.12L253.07 238.13L247.01 233.08V228.17H245.36V233.17H243.04L237.83 211.59L237.48 210.01H100.53L99.12 214.99L88.7 215.17L88.68 215.02L88.24 210.01H8.31L7.31 215.17H0V0H131.17H246.13V222.82H261.35H261.36Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 2,
+            svg: `<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 3,
+            svg: `<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 4,
+            svg: `<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 5,
+            svg: `<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "343px",
+            left: "788px",
+            width: "140px",
+          },
+          {
+            apartment: 6,
+            svg: `<svg width="254" height="239" viewBox="0 0 254 239" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M254.01 0V178.09H252.01V210.11H248.33H172.98L172.33 215.09L162.05 215.14L160.71 210.11H23.74L18.13 233.27H15.82V228.27H14.17V233.18L14.11 233.23L8.06 238.27H5.82001V238.09C5.82001 234.88 3.21 232.27 0 232.27V222.08H12V0.100006H130V0H254H254.01Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
@@ -821,364 +2473,1406 @@ const block4Data = {
 
 `,
       entrances: {
-        r5: [
-          { apartment: 7, svg: "/svg/blocks/block-4/floors/4/r5/7.svg" },
-          { apartment: 8, svg: "/svg/blocks/block-4/floors/4/r5/8.svg" },
-          { apartment: 9, svg: "/svg/blocks/block-4/floors/4/r5/9.svg" },
-          { apartment: 10, svg: "/svg/blocks/block-4/floors/4/r5/10.svg" },
-          { apartment: 11, svg: "/svg/blocks/block-4/floors/4/r5/11.svg" },
-          { apartment: 12, svg: "/svg/blocks/block-4/floors/4/r5/12.svg" },
-        ],
         r6: [
-          { apartment: 7, svg: "/svg/blocks/block-4/floors/4/r6/7.svg" },
-          { apartment: 8, svg: "/svg/blocks/block-4/floors/4/r6/8.svg" },
-          { apartment: 9, svg: "/svg/blocks/block-4/floors/4/r6/9.svg" },
-          { apartment: 10, svg: "/svg/blocks/block-4/floors/4/r6/10.svg" },
-          { apartment: 11, svg: "/svg/blocks/block-4/floors/4/r6/11.svg" },
-          { apartment: 12, svg: "/svg/blocks/block-4/floors/4/r6/12.svg" },
+          {
+            apartment: 7,
+            svg: `<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 8,
+            svg: `<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 9,
+            svg: `<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 10,
+            svg: `<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 11,
+            svg: `<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 12,
+            svg: `<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 7,
+            svg: `<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 8,
+            svg: `<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 9,
+            svg: `<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 10,
+            svg: `<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 11,
+            svg: `<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 12,
+            svg: `<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 5,
-      svg: `<svg width="1037" height="63" viewBox="0 0 1037 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 61H2V2H1035V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="55" viewBox="0 0 1037 55" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 53H2V2H1035V53Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 13, svg: "/svg/blocks/block-4/floors/5/r5/13.svg" },
-          { apartment: 14, svg: "/svg/blocks/block-4/floors/5/r5/14.svg" },
-          { apartment: 15, svg: "/svg/blocks/block-4/floors/5/r5/15.svg" },
-          { apartment: 16, svg: "/svg/blocks/block-4/floors/5/r5/16.svg" },
-          { apartment: 17, svg: "/svg/blocks/block-4/floors/5/r5/17.svg" },
-          { apartment: 18, svg: "/svg/blocks/block-4/floors/5/r5/18.svg" },
-        ],
         r6: [
-          { apartment: 13, svg: "/svg/blocks/block-4/floors/5/r6/13.svg" },
-          { apartment: 14, svg: "/svg/blocks/block-4/floors/5/r6/14.svg" },
-          { apartment: 15, svg: "/svg/blocks/block-4/floors/5/r6/15.svg" },
-          { apartment: 16, svg: "/svg/blocks/block-4/floors/5/r6/16.svg" },
-          { apartment: 17, svg: "/svg/blocks/block-4/floors/5/r6/17.svg" },
-          { apartment: 18, svg: "/svg/blocks/block-4/floors/5/r6/18.svg" },
+          {
+            apartment: 13,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 14,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 15,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 16,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 17,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 18,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 13,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 14,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 15,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 16,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 17,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 18,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 6,
-      svg: `<svg width="1037" height="58" viewBox="0 0 1037 58" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 56H2V2H1035V56Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="50" viewBox="0 0 1037 50" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 48H2V2H1035V48Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 19, svg: "/svg/blocks/block-4/floors/6/r5/19.svg" },
-          { apartment: 20, svg: "/svg/blocks/block-4/floors/6/r5/20.svg" },
-          { apartment: 21, svg: "/svg/blocks/block-4/floors/6/r5/21.svg" },
-          { apartment: 22, svg: "/svg/blocks/block-4/floors/6/r5/22.svg" },
-          { apartment: 23, svg: "/svg/blocks/block-4/floors/6/r5/23.svg" },
-          { apartment: 24, svg: "/svg/blocks/block-4/floors/6/r5/24.svg" },
-        ],
         r6: [
-          { apartment: 19, svg: "/svg/blocks/block-4/floors/6/r6/19.svg" },
-          { apartment: 20, svg: "/svg/blocks/block-4/floors/6/r6/20.svg" },
-          { apartment: 21, svg: "/svg/blocks/block-4/floors/6/r6/21.svg" },
-          { apartment: 22, svg: "/svg/blocks/block-4/floors/6/r6/22.svg" },
-          { apartment: 23, svg: "/svg/blocks/block-4/floors/6/r6/23.svg" },
-          { apartment: 24, svg: "/svg/blocks/block-4/floors/6/r6/24.svg" },
+          {
+            apartment: 19,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 20,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 21,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 22,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 23,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 24,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 19,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 20,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 21,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 22,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 23,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 24,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 7,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-
-`,
+      svg: '<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 25, svg: "/svg/blocks/block-4/floors/7/r5/25.svg" },
-          { apartment: 26, svg: "/svg/blocks/block-4/floors/7/r5/26.svg" },
-          { apartment: 27, svg: "/svg/blocks/block-4/floors/7/r5/27.svg" },
-          { apartment: 28, svg: "/svg/blocks/block-4/floors/7/r5/28.svg" },
-          { apartment: 29, svg: "/svg/blocks/block-4/floors/7/r5/29.svg" },
-          { apartment: 30, svg: "/svg/blocks/block-4/floors/7/r5/30.svg" },
-        ],
         r6: [
-          { apartment: 25, svg: "/svg/blocks/block-4/floors/7/r6/25.svg" },
-          { apartment: 26, svg: "/svg/blocks/block-4/floors/7/r6/26.svg" },
-          { apartment: 27, svg: "/svg/blocks/block-4/floors/7/r6/27.svg" },
-          { apartment: 28, svg: "/svg/blocks/block-4/floors/7/r6/28.svg" },
-          { apartment: 29, svg: "/svg/blocks/block-4/floors/7/r6/29.svg" },
-          { apartment: 30, svg: "/svg/blocks/block-4/floors/7/r6/30.svg" },
+          {
+            apartment: 25,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 26,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 27,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 28,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 29,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 30,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 25,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 26,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 27,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 28,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 29,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 30,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 8,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
-        r5: [
-          { apartment: 31, svg: "/svg/blocks/block-4/floors/8/r5/31.svg" },
-          { apartment: 32, svg: "/svg/blocks/block-4/floors/8/r5/32.svg" },
-          { apartment: 33, svg: "/svg/blocks/block-4/floors/8/r5/33.svg" },
-          { apartment: 34, svg: "/svg/blocks/block-4/floors/8/r5/34.svg" },
-          { apartment: 35, svg: "/svg/blocks/block-4/floors/8/r5/35.svg" },
-          { apartment: 36, svg: "/svg/blocks/block-4/floors/8/r5/36.svg" },
-        ],
         r6: [
-          { apartment: 31, svg: "/svg/blocks/block-4/floors/8/r6/31.svg" },
-          { apartment: 32, svg: "/svg/blocks/block-4/floors/8/r6/32.svg" },
-          { apartment: 33, svg: "/svg/blocks/block-4/floors/8/r6/33.svg" },
-          { apartment: 34, svg: "/svg/blocks/block-4/floors/8/r6/34.svg" },
-          { apartment: 35, svg: "/svg/blocks/block-4/floors/8/r6/35.svg" },
-          { apartment: 36, svg: "/svg/blocks/block-4/floors/8/r6/36.svg" },
+          {
+            apartment: 31,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 32,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 33,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 34,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 35,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 36,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 31,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 32,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 33,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 34,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 35,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 36,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 9,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="50" viewBox="0 0 1037 50" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 48H2V2H1035V48Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 37, svg: "/svg/blocks/block-4/floors/9/r5/37.svg" },
-          { apartment: 38, svg: "/svg/blocks/block-4/floors/9/r5/38.svg" },
-          { apartment: 39, svg: "/svg/blocks/block-4/floors/9/r5/39.svg" },
-          { apartment: 40, svg: "/svg/blocks/block-4/floors/9/r5/40.svg" },
-          { apartment: 41, svg: "/svg/blocks/block-4/floors/9/r5/41.svg" },
-          { apartment: 42, svg: "/svg/blocks/block-4/floors/9/r5/42.svg" },
-        ],
         r6: [
-          { apartment: 37, svg: "/svg/blocks/block-4/floors/9/r6/37.svg" },
-          { apartment: 38, svg: "/svg/blocks/block-4/floors/9/r6/38.svg" },
-          { apartment: 39, svg: "/svg/blocks/block-4/floors/9/r6/39.svg" },
-          { apartment: 40, svg: "/svg/blocks/block-4/floors/9/r6/40.svg" },
-          { apartment: 41, svg: "/svg/blocks/block-4/floors/9/r6/41.svg" },
-          { apartment: 42, svg: "/svg/blocks/block-4/floors/9/r6/42.svg" },
+          {
+            apartment: 37,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 38,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 39,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 40,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 41,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 42,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 37,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 38,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 39,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 40,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 41,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 42,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 10,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
-        r5: [
-          { apartment: 43, svg: "/svg/blocks/block-4/floors/10/r5/43.svg" },
-          { apartment: 44, svg: "/svg/blocks/block-4/floors/10/r5/44.svg" },
-          { apartment: 45, svg: "/svg/blocks/block-4/floors/10/r5/45.svg" },
-          { apartment: 46, svg: "/svg/blocks/block-4/floors/10/r5/46.svg" },
-          { apartment: 47, svg: "/svg/blocks/block-4/floors/10/r5/47.svg" },
-          { apartment: 48, svg: "/svg/blocks/block-4/floors/10/r5/48.svg" },
-        ],
         r6: [
-          { apartment: 43, svg: "/svg/blocks/block-4/floors/10/r6/43.svg" },
-          { apartment: 44, svg: "/svg/blocks/block-4/floors/10/r6/44.svg" },
-          { apartment: 45, svg: "/svg/blocks/block-4/floors/10/r6/45.svg" },
-          { apartment: 46, svg: "/svg/blocks/block-4/floors/10/r6/46.svg" },
-          { apartment: 47, svg: "/svg/blocks/block-4/floors/10/r6/47.svg" },
-          { apartment: 48, svg: "/svg/blocks/block-4/floors/10/r6/48.svg" },
+          {
+            apartment: 43,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 44,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 45,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 46,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 47,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 48,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 43,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 44,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 45,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 46,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 47,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 48,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 11,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
-        r5: [
-          { apartment: 49, svg: "/svg/blocks/block-4/floors/11/r5/49.svg" },
-          { apartment: 50, svg: "/svg/blocks/block-4/floors/11/r5/50.svg" },
-          { apartment: 51, svg: "/svg/blocks/block-4/floors/11/r5/51.svg" },
-          { apartment: 52, svg: "/svg/blocks/block-4/floors/11/r5/52.svg" },
-          { apartment: 53, svg: "/svg/blocks/block-4/floors/11/r5/53.svg" },
-          { apartment: 54, svg: "/svg/blocks/block-4/floors/11/r5/54.svg" },
-        ],
         r6: [
-          { apartment: 49, svg: "/svg/blocks/block-4/floors/11/r6/49.svg" },
-          { apartment: 50, svg: "/svg/blocks/block-4/floors/11/r6/50.svg" },
-          { apartment: 51, svg: "/svg/blocks/block-4/floors/11/r6/51.svg" },
-          { apartment: 52, svg: "/svg/blocks/block-4/floors/11/r6/52.svg" },
-          { apartment: 53, svg: "/svg/blocks/block-4/floors/11/r6/53.svg" },
-          { apartment: 54, svg: "/svg/blocks/block-4/floors/11/r6/54.svg" },
+          {
+            apartment: 49,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 50,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 51,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 52,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 53,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 54,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 49,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 50,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 51,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 52,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 53,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 54,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 12,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="53" viewBox="0 0 1037 53" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 51H2V2H1035V51Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 55, svg: "/svg/blocks/block-4/floors/12/r5/55.svg" },
-          { apartment: 56, svg: "/svg/blocks/block-4/floors/12/r5/56.svg" },
-          { apartment: 57, svg: "/svg/blocks/block-4/floors/12/r5/57.svg" },
-          { apartment: 58, svg: "/svg/blocks/block-4/floors/12/r5/58.svg" },
-          { apartment: 59, svg: "/svg/blocks/block-4/floors/12/r5/59.svg" },
-          { apartment: 60, svg: "/svg/blocks/block-4/floors/12/r5/60.svg" },
-        ],
         r6: [
-          { apartment: 55, svg: "/svg/blocks/block-4/floors/12/r6/55.svg" },
-          { apartment: 56, svg: "/svg/blocks/block-4/floors/12/r6/56.svg" },
-          { apartment: 57, svg: "/svg/blocks/block-4/floors/12/r6/57.svg" },
-          { apartment: 58, svg: "/svg/blocks/block-4/floors/12/r6/58.svg" },
-          { apartment: 59, svg: "/svg/blocks/block-4/floors/12/r6/59.svg" },
-          { apartment: 60, svg: "/svg/blocks/block-4/floors/12/r6/60.svg" },
+          {
+            apartment: 55,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 56,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 57,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 58,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 59,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 60,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 55,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 56,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 57,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 58,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 59,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 60,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 13,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="56" viewBox="0 0 1037 56" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 54H2V2H1035V54Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 61, svg: "/svg/blocks/block-4/floors/13/r5/61.svg" },
-          { apartment: 62, svg: "/svg/blocks/block-4/floors/13/r5/62.svg" },
-          { apartment: 63, svg: "/svg/blocks/block-4/floors/13/r5/63.svg" },
-          { apartment: 64, svg: null, unavailable: true },
-          { apartment: 65, svg: "/svg/blocks/block-4/floors/13/r5/65.svg" },
-          { apartment: 66, svg: "/svg/blocks/block-4/floors/13/r5/66.svg" },
-        ],
         r6: [
-          { apartment: 61, svg: "/svg/blocks/block-4/floors/13/r6/61.svg" },
-          { apartment: 62, svg: "/svg/blocks/block-4/floors/13/r6/62.svg" },
-          { apartment: 63, svg: "/svg/blocks/block-4/floors/13/r6/63.svg" },
-          { apartment: 64, svg: null, unavailable: true },
-          { apartment: 65, svg: "/svg/blocks/block-4/floors/13/r6/65.svg" },
-          { apartment: 66, svg: "/svg/blocks/block-4/floors/13/r6/66.svg" },
+          {
+            apartment: 61,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 62,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 63,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 64,
+            svg: null,
+            unavailable: true,
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 65,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 66,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 61,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 62,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 63,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 64,
+            svg: null,
+            unavailable: true,
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 65,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 66,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 14,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="56" viewBox="0 0 1037 56" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 54H2V2H1035V54Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
-        r5: [
-          { apartment: 67, svg: "/svg/blocks/block-4/floors/14/r5/67.svg" },
-          { apartment: 68, svg: "/svg/blocks/block-4/floors/14/r5/68.svg" },
-          { apartment: 69, svg: "/svg/blocks/block-4/floors/14/r5/69.svg" },
-          { apartment: 70, svg: "/svg/blocks/block-4/floors/14/r5/70.svg" },
-          { apartment: 71, svg: "/svg/blocks/block-4/floors/14/r5/71.svg" },
-          { apartment: 72, svg: "/svg/blocks/block-4/floors/14/r5/72.svg" },
-        ],
         r6: [
-          { apartment: 67, svg: "/svg/blocks/block-4/floors/14/r6/67.svg" },
-          { apartment: 68, svg: "/svg/blocks/block-4/floors/14/r6/68.svg" },
-          { apartment: 69, svg: "/svg/blocks/block-4/floors/14/r6/69.svg" },
-          { apartment: 70, svg: "/svg/blocks/block-4/floors/14/r6/70.svg" },
-          { apartment: 71, svg: "/svg/blocks/block-4/floors/14/r6/71.svg" },
-          { apartment: 72, svg: "/svg/blocks/block-4/floors/14/r6/72.svg" },
+          {
+            apartment: 67,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 68,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 69,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 70,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 71,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 72,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 67,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 68,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 69,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 70,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 71,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 72,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 15,
-      svg: `<svg width="1037" height="63" viewBox="0 0 1037 63" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 61H2V2H1035V61Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="53" viewBox="0 0 1037 53" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 51H2V2H1035V51Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 73, svg: "/svg/blocks/block-4/floors/15/r5/73.svg" },
-          { apartment: 74, svg: "/svg/blocks/block-4/floors/15/r5/74.svg" },
-          { apartment: 75, svg: "/svg/blocks/block-4/floors/15/r5/75.svg" },
-          { apartment: 76, svg: "/svg/blocks/block-4/floors/15/r5/76.svg" },
-          { apartment: 77, svg: "/svg/blocks/block-4/floors/15/r5/77.svg" },
-          { apartment: 78, svg: "/svg/blocks/block-4/floors/15/r5/78.svg" },
-        ],
         r6: [
-          { apartment: 73, svg: "/svg/blocks/block-4/floors/15/r6/73.svg" },
-          { apartment: 74, svg: "/svg/blocks/block-4/floors/15/r6/74.svg" },
-          { apartment: 75, svg: "/svg/blocks/block-4/floors/15/r6/75.svg" },
-          { apartment: 76, svg: "/svg/blocks/block-4/floors/15/r6/76.svg" },
-          { apartment: 77, svg: "/svg/blocks/block-4/floors/15/r6/77.svg" },
-          { apartment: 78, svg: "/svg/blocks/block-4/floors/15/r6/78.svg" },
+          {
+            apartment: 73,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 74,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 75,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 76,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 77,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 78,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 73,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 74,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 75,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 76,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 77,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 78,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 16,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n',
       entrances: {
-        r5: [
-          { apartment: 79, svg: "/svg/blocks/block-4/floors/16/r5/79.svg" },
-          { apartment: 80, svg: "/svg/blocks/block-4/floors/16/r5/80.svg" },
-          { apartment: 81, svg: "/svg/blocks/block-4/floors/16/r5/81.svg" },
-          { apartment: 82, svg: "/svg/blocks/block-4/floors/16/r5/82.svg" },
-          { apartment: 83, svg: "/svg/blocks/block-4/floors/16/r5/83.svg" },
-          { apartment: 84, svg: "/svg/blocks/block-4/floors/16/r5/84.svg" },
-        ],
         r6: [
-          { apartment: 79, svg: "/svg/blocks/block-4/floors/16/r6/79.svg" },
-          { apartment: 80, svg: "/svg/blocks/block-4/floors/16/r6/80.svg" },
-          { apartment: 81, svg: "/svg/blocks/block-4/floors/16/r6/81.svg" },
-          { apartment: 82, svg: "/svg/blocks/block-4/floors/16/r6/82.svg" },
-          { apartment: 83, svg: "/svg/blocks/block-4/floors/16/r6/83.svg" },
-          { apartment: 84, svg: "/svg/blocks/block-4/floors/16/r6/84.svg" },
+          {
+            apartment: 79,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 80,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 81,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 82,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 83,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 84,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 79,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 80,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 81,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 82,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 83,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 84,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 17,
-      svg: `<svg width="1037" height="60" viewBox="0 0 1037 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 58H2V2H1035V58Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
-</svg>
-`,
+      svg: '<svg width="1037" height="56" viewBox="0 0 1037 56" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M1035 54H2V2H1035V54Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>\n</svg>\n\n',
       entrances: {
-        r5: [
-          { apartment: 85, svg: "/svg/blocks/block-4/floors/17/r5/85.svg" },
-          { apartment: 86, svg: "/svg/blocks/block-4/floors/17/r5/86.svg" },
-          { apartment: 87, svg: "/svg/blocks/block-4/floors/17/r5/87.svg" },
-          { apartment: 88, svg: "/svg/blocks/block-4/floors/17/r5/88.svg" },
-          { apartment: 89, svg: "/svg/blocks/block-4/floors/17/r5/89.svg" },
-          { apartment: 90, svg: "/svg/blocks/block-4/floors/17/r5/90.svg" },
-        ],
         r6: [
-          { apartment: 85, svg: "/svg/blocks/block-4/floors/17/r6/85.svg" },
-          { apartment: 86, svg: "/svg/blocks/block-4/floors/17/r6/86.svg" },
-          { apartment: 87, svg: "/svg/blocks/block-4/floors/17/r6/87.svg" },
-          { apartment: 88, svg: "/svg/blocks/block-4/floors/17/r6/88.svg" },
-          { apartment: 89, svg: "/svg/blocks/block-4/floors/17/r6/89.svg" },
-          { apartment: 90, svg: "/svg/blocks/block-4/floors/17/r6/90.svg" },
+          {
+            apartment: 85,
+            svg: '<svg width="167" height="239" viewBox="0 0 167 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M166.35 222.82V232.17H166.17C162.96 232.17 160.35 234.78 160.35 237.99V238.17H158.11L158.06 238.13L152 233.08V228.17H150.35V233.17H148.03L142.53 211.16H25.33L24.25 215.17H17.69L17.66 215.02L14.68 192.16H13.06V190.16H11.81V192.16H9.86005V190.16H8.61005V192.17H6.76001L6.71002 192.11L0 185.05V182.17H8.17004V0.039978H148.18V0H154.17V222.82H166.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "510px",
+            left: "1030px",
+            width: "140px",
+          },
+          {
+            apartment: 86,
+            svg: '<svg width="147" height="444" viewBox="0 0 147 444" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M146.02 191.53L146.01 208.79L146 228.22H138V410.35H90.18V413.24L90.13 413.29L83.4 420.35H79.2599L75.15 443.35H68.86L68.12 439.35H3.88995L3.14996 443.35H0V406.17H2V0H7.15997L7.16998 0.149994L7.94 7H128.38L129.1 4.13H141.01V191.53H146.02Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "920px",
+            width: "125px",
+          },
+          {
+            apartment: 87,
+            svg: '<svg width="153" height="219" viewBox="0 0 153 219" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M152.9 0V215.18H148.9V215.22H16.92V218.53H11.91V31.13H0L7.77002 0.0399933L12.97 0.0500031L20.58 3.08L20.61 3.14L21.06 4H149.76L150.76 0H152.9Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1030px",
+            width: "130px",
+          },
+          {
+            apartment: 88,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.17H163V215.19H107.86V215.18H0V0H2.14001L3.14001 4H151.84L152.32 3.07001L152.38 3.05L160 0.0399933H165.14L172.92 31.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "1160px",
+            width: "145px",
+          },
+          {
+            apartment: 89,
+            svg: '<svg width="268" height="231" viewBox="0 0 268 231" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M257.06 187.161L254.27 187.651L254.48 188.821L257.75 207.351L257.95 208.521L261.09 226.261L261.12 226.441L261.39 230.561H71.09V191.201H71.01V188.351L74.01 188.311H1V188.281H0V4.2606H9.91992L10.63 7.0906H131.14L131.84 0.0906015H142.16L142.86 7.11061H216.62L219.88 0.100596H219.98C228.36 -0.799404 236.17 4.4206 238.54 12.5106L238.56 12.5906L238.52 12.6506L234.65 18.7506L235.22 22.0106L233.25 22.3606L233.47 23.5906L235.44 23.2406L236.02 26.5406L234.05 26.8906L234.27 28.1206L236.24 27.7706L236.82 31.0706L234.85 31.4206L235.07 32.6506L237.03 32.3006L239.96 48.8706L237.99 49.2106L238.2 50.4406L240.17 50.1006L240.76 53.4006L238.79 53.7406L239 54.9806L240.97 54.6306L241.55 57.9306L239.58 58.2706L239.8 59.5106L241.77 59.1606L242.31 62.1906L247.76 64.2806L247.78 64.3806L249.56 74.4506L238.7 82.7606L235.95 83.2506L244.36 130.131L244.16 130.161V130.201L246.99 129.701L260 133.711L260.27 135.211L251.06 139.501L257.58 176.461L267.7 177.341L267.96 178.841L267.88 178.911L257.06 187.161Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "340px",
+            left: "1295px",
+            width: "230px",
+          },
+          {
+            apartment: 90,
+            svg: '<svg width="324" height="334" viewBox="0 0 324 334" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M323.75 171.35L322.98 167L317.09 162.46L316.52 159.2L314.55 159.55L314.33 158.32L316.3 157.97L315.72 154.67L313.75 155.02L313.53 153.79L315.5 153.44L314.92 150.14L312.95 150.49L312.73 149.26L314.7 148.91L311.78 132.34L309.81 132.69L309.6 131.46L311.57 131.11L311.26 129.4L310.98 127.81L309.01 128.16L308.8 126.93L310.77 126.58L310.19 123.28L308.22 123.63L308 122.4L309.97 122.05L309.43 119.02L313.77 115.26L313.85 115.19L312.07 105.12L312.05 105.02L299.08 100.97H299.04L296.23 101.45L293.18 84.22L290.93 71.45L290.72 70.29L288.15 55.69L287.94 54.53L290.72 54.03L301.52 45.83L301.61 45.76L301.34 44.26L291.22 43.38L285.26 9.57001L294.47 5.28L294.2 3.77002L281.35 0.5H281.32L278.48 0.990021L278.3 0L278.57 4.12H88.27L88.1901 1.83002H12.1801V224.65H0V234H0.180054C3.39005 234 6 236.61 6 239.82V240H8.23999L14.29 234.96L14.35 234.91V230H16V235H18.26L26.3101 224.94L26.35 224.89V222H58.01V224.88L66.02 234.9L67.86 244.47L69.39 245.65L76.92 239.89L107 263.06L103.38 271.77L104.97 272.99L116.63 267.59L118.35 265.38L133.66 277.18L133.92 277.38L134.78 278.04L135.14 278.32L149.64 289.49L149.72 289.56L147.94 291.85L147.03 299.95L186.62 330.44C189.7 332.81 193.4 333.99 197.09 333.99C201.1 333.99 205.11 332.6 208.31 329.85L208.4 329.77L206.89 325.89L253.25 265.69L256.74 267.31L256.87 267.37L260.21 263.03L257.66 259.95L313.25 187.76L317.34 188.68L317.45 188.7L320.44 184.81C321.59 183.32 322.49 181.66 323.09 179.88C324.02 177.15 324.25 174.2 323.75 171.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "1285px",
+            width: "270px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 85,
+            svg: '<svg width="262" height="239" viewBox="0 0 262 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M261.35 222.82V232.17H261.17C257.96 232.17 255.35 234.78 255.35 237.99V238.17H253.11L253.06 238.13L247 233.08V228.17H245.35V233.17H243.03L237.54 211.18H238V210.83H237.45L237.54 211.18H100.33L99.26 215.17H88.69L88.67 215.02L85.68 192.16H84.06V190.16H82.81V192.16H80.86V190.16H79.61V192.17H77.77L77.72 192.11L71 185.05V182.16H23.35V185.05L23.3 185.11L16.57 192.17H12.42L7.31 215.17H0V0H131.17H246.13V222.82H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "537px",
+            left: "375px",
+            width: "220px",
+          },
+          {
+            apartment: 86,
+            svg: '<svg width="171" height="229" viewBox="0 0 171 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.17 4.08V188.08H163.17V188.13H131.17V228.13H0V3.09L0.0700073 3.03999L4.11 0H13.28L13.33 0.0999908L16.51 6.92999H153.54L154.25 4.08H170.17Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "375px",
+            width: "145px",
+          },
+          {
+            apartment: 87,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M170.78 0L169.78 4H21.1L20.63 3.09L20.6 3.03L12.98 0.00999451H7.78L6.72 4.25L0 31.13H15.92V215.13H16.92V215.18H172.92V0H170.78Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "505px",
+            width: "145px",
+          },
+          {
+            apartment: 88,
+            svg: '<svg width="173" height="216" viewBox="0 0 173 216" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M172.92 31.13H156.52V215.18H0V0H2.14001L3.14001 4H151.82L152.32 3.03L152.38 3.00999L160 0H165.14L168.29 12.6L172.92 31.13Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "320px",
+            left: "653px",
+            width: "145px",
+          },
+          {
+            apartment: 89,
+            svg: '<svg width="164" height="229" viewBox="0 0 164 229" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M163.48 0V228.08H39.48V188.18H0V4.13H16.4L17.11 6.99001H157.55L158.01 2.83L158.32 0H163.48Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "343px",
+            left: "785px",
+            width: "140px",
+          },
+          {
+            apartment: 90,
+            svg: '<svg width="255" height="239" viewBox="0 0 255 239" fill="none" xmlns="http://www.w3.org/2000/svg">\n<path d="M254.18 0V178.09H252.18V215.27H249.03L249.01 215.11L246.69 192.27H244.78L244.73 192.21L238 185.16V182.27H190.35V185.27H190.23L188.33 187.27L183.58 192.27H181.74V190.26H180.49V192.26H178.54V190.26H177.29V192.26H175.67L172.66 215.27H162.09L162.06 215.14L161.02 211.28H23.8101L18.3101 233.27H16V228.27H14.35V233.18L14.29 233.23L8.24005 238.27H6V238.09C6 234.88 3.39005 232.27 0.180054 232.27H0V222.92H12.1801V0.100006H130.18V0H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>\n</svg>\n',
+            top: "535px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },
     {
       floor: 18,
-      svg: `<svg width="1037" height="205" viewBox="0 0 1037 205" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1035 203H2V2H1035V203Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
+      svg: `<svg width="1037" height="200" viewBox="0 0 1037 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1035 198H2V2H1035V198Z" fill="#FF6A00" fill-opacity="0.1" stroke="#FF6A00" stroke-width="4"/>
 </svg>
 `,
       entrances: {
-        r5: [
-          { apartment: 91, svg: "/svg/blocks/block-4/floors/18/r5/91.svg" },
-          { apartment: 92, svg: "/svg/blocks/block-4/floors/18/r5/92.svg" },
-        ],
         r6: [
-          { apartment: 91, svg: "/svg/blocks/block-4/floors/18/r6/91.svg" },
-          { apartment: 92, svg: "/svg/blocks/block-4/floors/18/r6/92.svg" },
+          {
+            apartment: 91,
+            svg: `<svg width="297" height="494" viewBox="0 0 297 494" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M296.18 478V487.35H296C292.79 487.35 290.18 489.96 290.18 493.17V493.35H287.94L287.89 493.31L281.83 488.26V483.35H280.18V488.35H277.86L272.36 466.34H155.16L154.08 470.35H147.52L147.49 470.2L144.51 447.34H142.89V445.34H141.64V447.34H139.69V445.34H138.44V447.35H136.59L136.54 447.29L129.83 440.23V437.35H90.18V440.24L90.13 440.29L83.4 447.35H79.2599L75.15 470.35H68.86L68.12 466.35H3.88995L3.14996 470.35H0V433.17H2V27H7.15997V27.15L7.94 34H128.38L129.1 31.13L136.87 0.0399933H142.07L149.68 3.08L149.71 3.14L150.16 4H278.86L279.86 0H282V215.18H284V255.22H278.01V255.18H284V478H296.18Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "322px",
+            left: "920px",
+            width: "250px",
+          },
+          {
+            apartment: 92,
+            svg: `<svg width="324" height="588" viewBox="0 0 324 588" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M323.09 433.19C322.49 434.97 321.59 436.63 320.44 438.12L317.45 442.01L317.34 441.99L313.25 441.07L257.66 513.26L260.21 516.34L256.87 520.68L256.74 520.62L253.25 519L206.89 579.2L208.4 583.08L208.31 583.16C205.11 585.91 201.1 587.3 197.09 587.3C193.4 587.3 189.7 586.12 186.62 583.75L147.03 553.26L147.94 545.16L149.72 542.87L149.64 542.8L135.14 531.63L134.78 531.35L133.92 530.69L133.66 530.49L118.35 518.69L116.63 520.9L104.97 526.3L103.38 525.08L107 516.37L76.92 493.2L69.39 498.96L67.86 497.78L66.02 488.21L58.01 478.19V475.31H26.35V478.2L26.3101 478.25L18.26 488.31H16V483.31H14.35V488.22L14.29 488.27L8.23999 493.31H6V493.13C6 489.92 3.39005 487.31 0.180054 487.31H0V477.96H12.1801V255.14H12.2101V215.15H16.2101V33.13H14.2001V7.18001H6.12V4.15001L6.56006 3.01001L14.1801 0H19.3201L26.63 31.13H27.1L27.8101 33.96H148.32L149.02 26.96H159.34L160.04 33.98H233.8L237.06 26.97H237.16C245.54 26.07 253.35 31.29 255.72 39.38L255.74 39.46L255.7 39.52L251.83 45.62L252.4 48.88L250.43 49.23L250.65 50.46L252.62 50.11L253.2 53.41L251.23 53.76L251.45 54.99L253.42 54.64L254 57.94L252.03 58.29L252.25 59.52L254.21 59.17L257.14 75.74L255.17 76.08L255.38 77.31L257.35 76.97L257.94 80.27L255.97 80.61L256.18 81.85L258.15 81.5L258.73 84.8L256.76 85.14L256.98 86.38L258.95 86.03L259.49 89.06L264.94 91.15L264.96 91.25L266.74 101.32L255.88 109.63L253.13 110.12L261.54 157L261.34 157.03V157.07L264.17 156.57L277.18 160.58L277.45 162.08L268.24 166.37L274.76 203.33L284.88 204.21L285.14 205.71L285.06 205.78L274.24 214.03L271.45 214.52L271.66 215.69L274.93 234.22L275.13 235.39L278.27 253.13L278.3 253.31L278.48 254.3L281.32 253.8H281.35L294.2 257.08L294.47 258.59L285.26 262.88L291.22 296.69L301.34 297.57L301.61 299.07L301.52 299.14L290.72 307.34L287.94 307.84L288.15 309L290.72 323.59L290.93 324.76L293.18 337.53L296.23 354.76L299.04 354.27H299.08L312.05 358.33L312.07 358.43L313.85 368.5L313.77 368.57L309.43 372.33L309.97 375.36L308 375.71L308.22 376.94L310.19 376.59L310.77 379.89L308.8 380.24L309.01 381.47L310.98 381.12L311.26 382.71L311.57 384.42L309.6 384.77L309.81 386L311.78 385.65L314.7 402.22L312.73 402.57L312.95 403.8L314.92 403.45L315.5 406.75L313.53 407.1L313.75 408.33L315.72 407.98L316.3 411.28L314.33 411.63L314.55 412.86L316.52 412.51L317.09 415.77L322.98 420.31L323.75 424.66C324.25 427.51 324.02 430.46 323.09 433.19Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>`,
+            top: "320px",
+            left: "1285px",
+            width: "275px",
+          },
+        ],
+        r5: [
+          {
+            apartment: 91,
+            svg: `<svg width="262" height="494" viewBox="0 0 262 494" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M261.35 478V487.35H261.17C257.96 487.35 255.35 489.96 255.35 493.17V493.35H253.11L253.06 493.31L247 488.26V483.35H245.35V488.35H243.03L237.54 466.36H238V466.01H237.45L237.54 466.36H100.33L99.26 470.35H88.69L88.67 470.2L85.68 447.34H84.06V445.34H82.81V447.34H80.86V445.34H79.61V447.35H77.77L77.72 447.29L71 440.23V437.34H23.35V440.23L23.3 440.29L16.57 447.35H12.42L7.31 470.35H0V30.14L0.0700073 30.09L4.11 27.05H13.28L13.33 27.15L16.51 33.98H153.54L154.25 31.13L160.97 4.25L162.03 0H167.23L174.85 3.03L174.88 3.09L175.35 4H244.11L244.19 2.18001H249.61V218.19H251.14V238.39H249.61V259.59H246.13V478H261.35Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+
+`,
+            top: "322px",
+            left: "375px",
+            width: " 220px",
+          },
+          {
+            apartment: 92,
+            svg: `<svg width="255" height="494" viewBox="0 0 255 494" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M254.18 27V433.17H252.18V470.35H249.03L249.01 470.19L246.69 447.35H244.78L244.73 447.29L238 440.24V437.35H190.35V440.35H190.23L188.33 442.35L183.58 447.35H181.74V445.34H180.49V447.34H178.54V445.34H177.29V447.34H175.67L172.66 470.35H162.09L162.06 470.22L161.02 466.36H23.8101L18.3101 488.35H16V483.35H14.35V488.26L14.29 488.31L8.24005 493.35H6V493.17C6 489.96 3.39005 487.35 0.180054 487.35H0V478H12.1801V269.31H11.58V2.18001H16.9901L17.1201 4H86L86.5 3.03L86.5601 3.00999L94.1801 0H99.32L102.47 12.6L107.1 31.13L107.81 33.99H248.25L248.71 29.83L249.02 27H254.18Z" fill="#FF6A00" fill-opacity="0.5"/>
+</svg>
+`,
+            top: "320px",
+            left: "710px",
+            width: "215px",
+          },
         ],
       },
     },

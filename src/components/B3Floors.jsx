@@ -49,34 +49,43 @@ export default function Block1Page() {
         backgroundImage: `url(${process.env.PUBLIC_URL}/assets/bg/block3_4.jpg)`,
       }}
     >
+      <button className="back-btn" onClick={() => navigate(`/`)}>
+        ← Назад
+      </button>
       <div className="blocks-nav">
-        <button className="block-btn" onClick={() => handleBlockNavigate(1)}>
+        <button
+          className="block-btn b3fblock1-btn"
+          onClick={() => handleBlockNavigate(1)}
+        >
           B1
         </button>
-        <button className="block-btn" onClick={() => handleBlockNavigate(2)}>
+        <button
+          className="block-btn b3fblock2-btn"
+          onClick={() => handleBlockNavigate(2)}
+        >
           B2
         </button>
 
-        <button className="block-btn active-block">B3</button>
+        <button className="block-btn active-block b3fblock3-btn">B3</button>
 
-        <button className="block-btn" onClick={() => handleBlockNavigate(4)}>
+        <button
+          className="block-btn b3fblock4-btn"
+          onClick={() => handleBlockNavigate(4)}
+        >
           B4
         </button>
       </div>
 
-      {[...block.floors].reverse().map((floor) => (
-        <div
-          key={floor.floor}
-          onClick={() => handleFloorClick(floor)}
-          className={`
-            block_floors
-            block_floor${floor.floor}
-            ${selectedFloor === floor.floor ? "selected-svg" : ""}
-            ${loadingFloor === floor.floor ? "loading-floor" : ""}
-          `}
-          dangerouslySetInnerHTML={{ __html: floor.svg }}
-        />
-      ))}
+      <div className="b3_floor_svg-wrapper">
+        {[...block.floors].reverse().map((floor) => (
+          <div
+            key={floor.floor}
+            onClick={() => handleFloorClick(floor)}
+            className={`block_floors block_floor${floor.floor}  ${selectedFloor === floor.floor ? "selected-svg" : ""} ${loadingFloor === floor.floor ? "loading-floor" : ""}`}
+            dangerouslySetInnerHTML={{ __html: floor.svg }}
+          />
+        ))}
+      </div>
     </div>
   );
 }

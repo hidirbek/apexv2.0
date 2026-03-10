@@ -3,7 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { blocksData } from "../data";
 
-const B1FloorPlan = () => {
+const B3FloorPlan = () => {
   const { blockId, floorId } = useParams();
   const navigate = useNavigate();
   const floorNumber = Number(floorId);
@@ -17,14 +17,17 @@ const B1FloorPlan = () => {
 
   const getBackgroundImage = () => {
     if (floorNumber === 3) {
-      return `${process.env.PUBLIC_URL}/assets/b1FloorPlans/3-Floor.png`;
+      return `${process.env.PUBLIC_URL}/assets/b3FloorPlans/3-Floor.png`;
     }
 
-    if (floorNumber === 12) {
-      return `${process.env.PUBLIC_URL}/assets/b1FloorPlans/12-Penthouse-Floor.png`;
+    if (floorNumber === 13) {
+      return `${process.env.PUBLIC_URL}/assets/b3FloorPlans/13-Floor.png`;
+    }
+    if (floorNumber === 15) {
+      return `${process.env.PUBLIC_URL}/assets/b3FloorPlans/15-Penthouse.png`;
     }
 
-    return `${process.env.PUBLIC_URL}/assets/b1FloorPlans/Typical-Floor.png`;
+    return `${process.env.PUBLIC_URL}/assets/b3FloorPlans/Typical-Floor.png`;
   };
 
   if (!currentBlock) {
@@ -88,13 +91,13 @@ const B1FloorPlan = () => {
     return (
       <div
         key={apartmentKey}
-        className={`apartment-item b1_apartment-item b1_apartment-item${entranceName + apartment.apartment} ${isActive ? "active" : ""}`}
+        className={`apartment-item b3_apartment-item b3_apartment-item${entranceName + apartment.apartment} ${isActive ? "active" : ""}`}
         onClick={() => handleApartmentClick(apartment, entranceName)}
       >
         <div className={`apartment-svg ${isActive ? "active" : ""}`}>
           {isActive ? (
             <div
-              className="active_apart-svg"
+              className="active_apart-svg b2_active_apart-svg"
               dangerouslySetInnerHTML={{ __html: apartment.svg }}
               style={{
                 top: apartment.top,
@@ -105,7 +108,7 @@ const B1FloorPlan = () => {
             ></div>
           ) : (
             <div
-              className="nonactive_apart-svg"
+              className="nonactive_apart-svg b2_nonactive_apart-svg"
               dangerouslySetInnerHTML={{ __html: apartment.svg }}
               style={{
                 top: apartment.top,
@@ -174,4 +177,4 @@ const B1FloorPlan = () => {
   );
 };
 
-export default B1FloorPlan;
+export default B3FloorPlan;

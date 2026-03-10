@@ -6,6 +6,16 @@
   height: 100vh;
 }
 
+.back-btn {
+  margin: 30px 0px 0px 20px;
+  padding: 8px 10px;
+  font-size: 25px;
+  border-radius: 8px;
+  background-color: #ff6a00;
+  color: #fff;
+  font-weight: 900;
+  border: 1px solid #652a00;
+}
 
 .block-btn {
   border-radius: 50%;
@@ -15,24 +25,172 @@
   border: 3px solid #652a00;
   font-size: 20px;
   font-weight: 900;
+  position: absolute;
 
+}
+
+.b4fblock1-btn {
+  top: 50px;
+  left: 950px;
+}
+
+.b4fblock2-btn {
+  top: 150px;
+  right: 600px;
+}
+
+.b4fblock3-btn {
+  top: 250px;
+  right: 690px;
+}
+
+.b4fblock4-btn {
+  top: 200px;
+  left: 800px;
+}
+
+
+.b1fblock1-btn {
+  top: 100px;
+  left: 950px;
+}
+
+.b1fblock2-btn {
+  top: 180px;
+  left: 600px;
+}
+
+.b1fblock3-btn {
+  top: 220px;
+  left: 770px;
+}
+
+.b1fblock4-btn {
+  top: 200px;
+  right: 750px;
+}
+
+.b3fblock1-btn {
+  top: 80px;
+  left: 950px;
+}
+
+.b3fblock2-btn {
+  top: 80px;
+  right: 650px;
+}
+
+.b3fblock3-btn {
+  top: 220px;
+  right: 700px;
+}
+
+.b3fblock4-btn {
+  top: 200px;
+  left: 850px;
+}
+
+
+.b2fblock1-btn {
+  top: 300px;
+  right: 680px;
+}
+
+.b2fblock2-btn {
+  top: 200px;
+  left: 950px;
+}
+
+.b2fblock3-btn {
+  top: 220px;
+  left: 700px;
+}
+
+.b2fblock4-btn {
+  top: 100px;
+  left: 750px;
 }
 
 .active-block {
   background-color: transparent;
 }
 
+.b1_floor_svg-wrapper {
+  position: absolute;
+  top: 420px;
+  left: 542px;
+  width: 610px;
+}
+
+.b2_floor_svg-wrapper {
+  position: absolute;
+  top: 350px;
+  left: 802px;
+  width: 320px;
+}
+
+.b3_floor_svg-wrapper {
+  position: absolute;
+  top: 377px;
+  right: 585px;
+  width: 265px;
+}
+
+.b4_floor_svg-wrapper {
+  position: absolute;
+  top: 298px;
+  right: 848px;
+  width: 485px;
+}
+
 .block_floors {
   cursor: pointer;
-  width: 400px;
+  width: inherit;
   transition: transform 0.2s ease;
 }
 
 
+
 .block_floors svg {
-  width: 100%;
+  width: inherit;
   height: auto;
   display: block;
+
+}
+
+.block_floors svg path {
+  width: inherit;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+
+}
+
+.b1_block_floor11,
+.b1_block_floor9,
+.b1_block_floor10 {
+  margin-top: -10px;
+}
+
+.b1_block_floor8,
+.b1_block_floor7 {
+  margin-top: -4px;
+}
+
+
+.b1_block_floor5 {
+  margin-top: -2px;
+}
+
+.b1_block_floor4 {
+  margin-top: -3px;
+}
+
+.b1_block_floor3 {
+  margin-top: -4px;
+
 }
 
 .block_floor18 svg path {
