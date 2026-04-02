@@ -1,0 +1,320 @@
+.block_bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.back-btn {
+  margin: 30px 0px 0px 20px;
+  padding: 8px 10px;
+  font-size: 25px;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #ff6a00;
+  font-weight: 900;
+  border: 1px solid #ff6a00;
+}
+
+.block-btn {
+  border-radius: 50%;
+  padding: 10px;
+  background-color: #ff6a00;
+  color: #fff;
+  border: 3px solid #652a00;
+  font-size: 20px;
+  font-weight: 900;
+  position: absolute;
+
+}
+
+.b4fblock1-btn {
+  top: 50px;
+  left: 950px;
+}
+
+.b4fblock2-btn {
+  top: 150px;
+  right: 600px;
+}
+
+.b4fblock3-btn {
+  top: 250px;
+  right: 690px;
+}
+
+.b4fblock4-btn {
+  top: 200px;
+  left: 800px;
+}
+
+
+.b1fblock1-btn {
+  top: 100px;
+  left: 950px;
+}
+
+.b1fblock2-btn {
+  top: 180px;
+  left: 600px;
+}
+
+.b1fblock3-btn {
+  top: 220px;
+  left: 770px;
+}
+
+.b1fblock4-btn {
+  top: 200px;
+  right: 750px;
+}
+
+.b3fblock1-btn {
+  top: 80px;
+  left: 950px;
+}
+
+.b3fblock2-btn {
+  top: 80px;
+  right: 650px;
+}
+
+.b3fblock3-btn {
+  top: 220px;
+  right: 700px;
+}
+
+.b3fblock4-btn {
+  top: 200px;
+  left: 850px;
+}
+
+
+.b2fblock1-btn {
+  top: 300px;
+  right: 680px;
+}
+
+.b2fblock2-btn {
+  top: 200px;
+  left: 950px;
+}
+
+.b2fblock3-btn {
+  top: 220px;
+  left: 700px;
+}
+
+.b2fblock4-btn {
+  top: 100px;
+  left: 750px;
+}
+
+.active-block {
+  background-color: transparent;
+}
+
+.b1_floor_svg-wrapper {
+  position: absolute;
+  top: 422px;
+  left: 546px;
+  width: 610px;
+}
+
+.b2_floor_svg-wrapper {
+  position: absolute;
+  top: 350px;
+  left: 802px;
+  width: 320px;
+}
+
+.b3_floor_svg-wrapper {
+  position: absolute;
+  top: 377px;
+  right: 585px;
+  width: 265px;
+}
+
+.b4_floor_svg-wrapper {
+  position: absolute;
+  top: 298px;
+  right: 848px;
+  width: 485px;
+}
+
+.block_floors {
+  cursor: pointer;
+  width: inherit;
+  transition: transform 0.2s ease;
+}
+
+
+
+.block_floors svg {
+  width: inherit;
+  height: auto;
+  display: block;
+
+}
+
+.block_floors svg path {
+  width: inherit;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+
+}
+
+.b1_block_floor11,
+.b1_block_floor9,
+.b1_block_floor10 {
+  margin-top: -10px;
+}
+
+.b1_block_floor8,
+.b1_block_floor7 {
+  margin-top: -2px;
+}
+
+
+.b1_block_floor5 {
+  margin-top: -6px;
+}
+
+.b1_block_floor4 {
+  margin-top: -3px;
+}
+
+.b1_block_floor3 {
+  margin-top: -4px;
+
+}
+
+.block_floors:nth-child(odd) svg path {
+  animation: glowPulse 5s ease-in-out infinite;
+  animation-delay: 0s;
+}
+
+.block_floors:nth-child(even) svg path {
+  animation: glowPulse 5s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+/* .block_floor18 svg path {}
+
+.block_floor17 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.2s;
+}
+
+.block_floor16 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.3s;
+}
+
+.block_floor15 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.4s;
+}
+
+.block_floor14 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.5s;
+}
+
+.block_floor13 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.6s;
+}
+
+.block_floor12 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.7s;
+}
+
+.block_floor11 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 0.8s;
+}
+
+.block_floor10 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+.block_floor9 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.2s;
+}
+
+.block_floor8 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.4s;
+}
+
+.block_floor7 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.6s;
+}
+
+.block_floor6 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 1.8s;
+}
+
+.block_floor5 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 2s;
+}
+
+.block_floor4 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 2.2s;
+}
+
+.block_floor3 svg path {
+  animation: glowPulse 8s ease-in-out infinite;
+  animation-delay: 2.4s;
+} */
+
+
+.selected-svg svg path {
+  animation: none !important;
+  fill: #ff6a00 !important;
+  fill-opacity: 0.6 !important;
+}
+
+.loading-floor {
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+@keyframes glowPulse {
+  0% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+
+  25% {
+    fill: #ff6a00;
+    fill-opacity: 0.3;
+  }
+
+  50% {
+    fill: #ff6a00cc;
+    fill-opacity: 0.15;
+  }
+
+  75% {
+    fill: #ff6a0093;
+    fill-opacity: 0.3;
+  }
+
+  100% {
+    fill: transparent;
+    fill-opacity: 0;
+  }
+}
